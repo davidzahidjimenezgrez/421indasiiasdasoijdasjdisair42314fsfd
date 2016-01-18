@@ -11,21 +11,21 @@
        {
      "name": "Atenco el cuerpo es memoria",
      "streamURL": "http://www.fomento.org.mx/novedades/Atenco.mp3",
-     "imageURL": "station-sub.png",
+     "imageURL": "http://www.fomento.org.mx/images/logo.jpg",
      "desc": "Programas del Mes",
      "longDesc": ""
      },
          {
      "name": "Día del la Libertad de Prensa",
      "streamURL": "http://www.fomento.org.mx/novedades/Libertad_prensa_2012.mp3",
-     "imageURL": "station-sub.png",
+     "imageURL": "http://www.fomento.org.mx/images/logo.jpg",
      "desc": "Programas del Mes",
      "longDesc": ""
      },
          {
      "name": "La mujer indígena y la costumbre del Chicomexochitl",
      "streamURL": "http://www.fomento.org.mx/novedades/costumbre%20_chicomexochitl.mp3",
-     "imageURL": "station-sub.png",
+     "imageURL": "http://www.fomento.org.mx/images/logo.jpg",
      "desc": "Programas del Mes",
      "longDesc": ""
      },
