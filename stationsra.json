@@ -1,0 +1,13 @@
+{
+    "station":
+    [
+     {
+     "name": "Radio Huaya",
+     "streamURL": "http://radiohuaya.iberopuebla.edu.mx:8000/xhfce",
+     "imageURL": "station-sub.png",
+     "desc": "Horario de transmisión: 7 a.m. a 7 p.m.",
+     "longDesc": "Radio Huayacocotla La Voz de los Campesinos es una emisora que está localizada en Huayacocotla, Veracruz un pequeño poblado de cinco mil habitantes, en la región de la Sierra Norte de Veracruz, México. Es cabecera municipal de 26 comunidades, 25 rancherías, y cabecera judicial y política de los demás municipios situados en la Sierra Norte de Veracruz. Forma parte de la micro-región de Chicontepec, que abarca a los municipios de Zacualpan, Ilamatlán, Tlachichilco, Zontecomatlán y Texcatepec. Es escuchada en la Sierra Norte de Veracruz, en la Huasteca de Hidalgo, en la Sierra de Puebla, en la Huasteca de San Luis Potosí, en la Sierra Gorda de Querétaro y la Huasteca de Tamaulipas; en su mayoría por personas de comunidades indígenas de los pueblos Otomí, Náhuatl y Tepehua. Actualmente se escucha en 1300 pueblos y comunidades de 140 municipios."
+     },
+  
+    ]
+}
