@@ -1,0 +1,96 @@
+{
+    "station":
+    [
+     {
+     "name": "Neurotik",
+     "streamURL": "http://104.130.146.201:8000/xhtom",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/neurotik.png",
+     "desc": "Hidalgo",
+     "longDesc": "NEURÓTIK Pachuca 106.1
+     },
+     {
+     "name": "Radio Plaza Juarez",
+     "streamURL": "http://198.154.246.178:7006/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/plazajuarez.png",
+     "desc": "Hidalgo",
+     "longDesc": "Radio Plaza Juarez"
+     },
+     {
+     "name": "Radio y Televisión",
+     "streamURL": "http://radioytv.hidalgo.gob.mx:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radioytvhidalgo.png",
+     "desc": "Hidalgo",
+     "longDesc": "Radio y Televisión"
+     },
+     {
+     "name": "La KeBuena 106.7 FM",
+     "streamURL": "http://209.133.210.123:8027",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/kebuena1067.png"",
+     "desc": "Hidalgo",
+     "longDesc": "La KeBuena 106.7 FM"
+     },
+     {
+     "name": "Radio UAEH",
+     "streamURL": "http://200.34.44.240:8002/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/uaeh.png",
+     "desc": "Hidalgo",
+     "longDesc": "Radio UAEH"
+     },
+     {
+     "name": "NQ Radio",
+     "streamURL": "http://198.154.246.178:8024/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/nqradio.png",
+     "desc": "Hidalgo",
+     "longDesc": "NQ Radio"
+     },
+     {
+     "name": "Radio Valle Tulancingo",
+     "streamURL": "http://184.107.179.162:3007/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radiovalletulancingo.png",
+     "desc": "Hidalgo",
+     "longDesc": "Radio Valle Tulancingo"
+     },
+     {
+     "name": "Radio Celular Millenium",
+     "streamURL": "http://radiocelmi.sytes.net:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radiocelularmillenium.png",
+     "desc": "Hidalgo",
+     "longDesc": "Radio Celular Millenium"
+     },
+     {
+     "name": "Pachuca Vip Radio",
+     "streamURL": "http://streaming.radionomy.com/RadionoMiX",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/pachucavipradio.png",
+     "desc": "Hidalgo",
+     "longDesc": "Pachuca Vip Radio"
+     },
+     {
+     "name": "Miled Radio",
+     "streamURL": "http://192.99.34.205:8612/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/miledradio.png",
+     "desc": "Hidalgo",
+     "longDesc": "Miled Radio"
+     },
+     {
+     "name": "Radio Ciudad Plastika",
+     "streamURL": "http://195.154.182.222:25752/autodj",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/ciudadplastika.png",
+     "desc": "Hidalgo",
+     "longDesc": "Radio Ciudad Plastika"
+     },
+     {
+     "name": "Polux Radio",
+     "streamURL": "http://85.17.30.50:8002/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/poluxradio.png",
+     "desc": "Polux Radio",
+     "longDesc": "Polux Radio"
+     },
+     {
+     "name": "Abstracto MX",
+     "streamURL": "http://64.37.55.229:8200/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/abstractomx.png",
+     "desc": "La Salle Pachuca",
+     "longDesc": "Abstracto MX"
+     },
+    ]
+}
