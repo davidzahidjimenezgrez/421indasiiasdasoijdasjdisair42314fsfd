@@ -6,7 +6,7 @@
      "streamURL": "http://104.130.146.201:8000/xhtom",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/neurotik.png",
      "desc": "Hidalgo",
-     "longDesc": "NEURÓTIK Pachuca 106.1
+     "longDesc": "NEURÓTIK Pachuca 106.1"
      },
      {
      "name": "Radio Plaza Juarez",
@@ -25,7 +25,7 @@
      {
      "name": "La KeBuena 106.7 FM",
      "streamURL": "http://209.133.210.123:8027",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/kebuena1067.png"",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/kebuena1067.png",
      "desc": "Hidalgo",
      "longDesc": "La KeBuena 106.7 FM"
      },
