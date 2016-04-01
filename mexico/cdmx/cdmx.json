@@ -1,182 +1,382 @@
-{"items": [
+{
+    "station":
+    [
+     {
+     "name": "La Ke Buena 92.9 FM",
+     "streamURL": "http://208.80.54.66/KEBUENA_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/ke-buena-92-9-fm-ciudad-de-mexico.png",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
     {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
     {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
     {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
     {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
     {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
     {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/",
-        "time": "",
-        "title": ""
-    },
-]}
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+    {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/mexico/",
+     "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+     ]}
