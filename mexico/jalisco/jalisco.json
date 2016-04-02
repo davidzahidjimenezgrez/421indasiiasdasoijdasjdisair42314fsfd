@@ -1,183 +1,229 @@
-{"items": [
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/",
-        "time": "",
-        "title": ""
-    },
-]}
-]}
+{
+    "station":
+    [
+     {
+     "name": "EXA 99.9 FM",
+     "streamURL": "http://208.80.54.57/XHCJX_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/exa-99-9-fm-puerto-vallarta.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Vital",
+     "streamURL": "http://206.190.133.196:7097/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/radio-vital-1310-am-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 95.5 FM",
+     "streamURL": "http://192.173.28.42/XHHPRFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/la-mejor-fm-95-5-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "La Buena Onda 101.9 FM",
+     "streamURL": "http://206.190.133.196:7094/live",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/la-buena-onda-101-9-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Universidad 104.3 FM",
+     "streamURL": "http://148.202.165.1:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/red-udg-radio-104-7-fm-colotlan.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Ranchito",
+     "streamURL": "http://198.50.118.50:8050/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/radio-ranchito-1340-am-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Fiesta Mexicana 94.3 FM",
+     "streamURL": "http://50.7.98.234:9988/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/fiesta-mexicana-1110-am-y-fm-94-3-fm-puerto-vallarta.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "C7 Radio 91.9 FM",
+     "streamURL": "http://50.7.98.234:8040/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/c7-radio-91-9-fm-cd-guzman.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Fiesta Mexicana 840 AM",
+     "streamURL": "http://radio.promosat.com:8110/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/fiesta-mexicana-840-am-tamazula-de-gordiano.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Millenium 105.1 FM",
+     "streamURL": "http://streaming.promomedios.com:8008/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/millenium-bella-musica-105-1-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Universidad 102.3",
+     "streamURL": "http://148.202.114.39:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/red-udg-radio-102-3-fm-autlan.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 590 AM",
+     "streamURL": "http://50.7.29.178:8779/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/la-mejor-590-am-puerto-vallarta.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "ZONA TRES 91.5 FM",
+     "streamURL": "http://streaming.promomedios.com:8006/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/zona-tres-91-5-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "LOS 40 PRINCIPALES 102.7 FM",
+     "streamURL": "http://208.80.54.46/LOS40_MEXICO_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/los-40-principales-102-7-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "EXA 101.1 FM",
+     "streamURL": "http://77.67.109.163/XHMA_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/exa-101-1-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Maria",
+     "streamURL": "http://50.7.181.186:8086/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/radio-maria-920-am-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "La Tapatia 103.5 FM",
+     "streamURL": "http://stream3.dyndns.org:8000/xhrx.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/la-tapatia-103-5-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "MAXIMA 106.7 FM",
+     "streamURL": "http://184.107.217.186:8028/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/maxima-106-7-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Fiesta Mix 92.3 FM",
+     "streamURL": "http://streaming.promomedios.com:8004/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/fiesta-mexicana-92-3-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "IMAGEN RADIO 93.9 FM",
+     "streamURL": "http://208.80.54.39/XEDAFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/imagen-93-9-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "STEREO VIDA 91.1 FM",
+     "streamURL": "http://50.7.98.234:9990/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/stereo-vida-800-am-ocotlan.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Mujer 1040 AM",
+     "streamURL": "http://streaming.promomedios.com:8002/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/radio-mujer-1040-am-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Metropoli",
+     "streamURL": "http://206.190.133.196:7088/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/radio-metropoli-1150-am-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Formula Melodica 97.9 FM",
+     "streamURL": "http://206.190.133.196:7085/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/formula-melodica-97-9-fm-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Max de Lagos de Moreno",
+     "streamURL": "http://198.50.113.170:8026/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/radio-max-de-lagos-lagos-de-moreno.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Universidad de Guadalajara",
+     "streamURL": "http://148.202.165.1:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/red-radio-universidad-guadalaraja.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "RMX 100.3 FM",
+     "streamURL": "http://radio.alphamx.net:8080/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/rmx-100-3-fm-guadalaraja.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Noticias 1070 AM",
+     "streamURL": "http://208.80.54.58/XESP_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/radio-noticia-1070-am-guadalajara.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "DIGITAL Solo Éxitos 89.5 FM",
+     "streamURL": "http://77.67.109.164/LOS40_CHILE_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/digital-89-5-fm-puerto-vallarta.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "DK 1250 AM",
+     "streamURL": "http://198.50.118.50:8026/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/dk-1250-1250-am.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "XEHK 960 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xehk.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/la-voz-de-guadalajara-960-am.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     {
+     "name": "Milenio Radio 89.1 FM",
+     "streamURL": "http://208.80.54.126/XHGDAFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/milenio-radio-89-1-fm.png",
+     "desc": "Jalisco",
+     "longDesc": ""
+     },
+     ]
+ }

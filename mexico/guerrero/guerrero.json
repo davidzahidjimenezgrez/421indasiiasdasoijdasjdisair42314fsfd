@@ -1,182 +1,201 @@
-{"items": [
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/",
-        "time": "",
-        "title": ""
-    },
-]}
+{
+    "station":
+    [
+     {
+     "name": "Vida 103.9 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhkj.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/vida-103-9-fm-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "EXA 92.9 FM",
+     "streamURL": "http://209.95.43.30:8037/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/exa-92-9-fm-taxco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor FM Acapulco",
+     "streamURL": "http://69.31.54.136/XHSE_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/la-mejor-100-1-fm-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Romantica 104.7 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhci.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/romantica-104-7-fm-y-1340-am-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "W RADIO",
+     "streamURL": "http://stream2.dyndns.org:8000/xhpa.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/w-radio-93-7-fm-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mas Picuda 96.9 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhns.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/la-mas-picuda-96-9-fm-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio XEXY",
+     "streamURL": "http://192.99.2.48:8458/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/radio-xexy-780-am-ciudad-altamirano.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Sin Fronteras",
+     "streamURL": "http://s7.voscast.com:7014/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/radio-sin-fronteras-guerrero.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Red Siete",
+     "streamURL": "http://95.211.115.197:8125/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/red-siete-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "LOS 40 PRINCIPALES 880 AM",
+     "streamURL": "http://208.80.54.36/LOS40_MEXICO_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/40-principales-880-am-iguala.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Arcelia",
+     "streamURL": "http://radiohosting.com.mx:8458/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/radio-arcelia-1450-am.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio y Televisión de Guerrero",
+     "streamURL": "http://50.7.98.234:8629/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/rtg-97-7-fm-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Soy Guerrero, Ometepec",
+     "streamURL": "http://50.7.98.234:8631/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/soy-guerrero-1110-am-ometepec.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "EXA 99.3",
+     "streamURL": "http://69.31.54.136/XHNQ_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/exa-99-3-fm-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Capital Maxina 97.1 FM",
+     "streamURL": "http://69.31.54.140/XEITE_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/capital-maxima-97-1-chilpacingo.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Acapulco",
+     "streamURL": "http://www.acapulcoradio.com/loops/01.ogg",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/radio-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Quelite",
+     "streamURL": "http://listen.radionomy.com/radio-quelite",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/radio-quelite-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Digital 103.1 FM",
+     "streamURL": "http://192.173.28.40/XHMARFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/digital-103-1-fm-y-1070-am-acapulco.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "abc Radio 1050 AM",
+     "streamURL": "http://209.95.43.30:8023/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/abc-1050-am-y-105-1-fm-chilpancingo.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "La Comadre 101.5 FM",
+     "streamURL": "http://208.80.54.96/XHBBFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/la-comadre-101-5-fm.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Zirandaro",
+     "streamURL": "http://67.212.189.122:8021/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/radio-zirandaro.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "abc Radio 96.1 FM",
+     "streamURL": "http://209.95.43.30:8021/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/abc-radio-96-1-fm.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Fiesta Mexican 93.7 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhpa.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/fiesta-mexicana-93-7-fm.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Estereo Vida 90.5 FM",
+     "streamURL": "http://s1.radiorama.com.mx:9346/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/estereo-vida-90-5-fm.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Vida Elite 89.7 FM",
+     "streamURL": "http://s1.radiorama.com.mx:8514/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/vida-89-7-fm.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Formula Acapulco",
+     "streamURL": "http://64.15.187.58:8000/acapulco1",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/radio-formula-acapulco-810-am.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "Cerebro Una Radio Demente",
+     "streamURL": "http://50.7.29.178:8709/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/cerebro-radio.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 98.5 FM",
+     "streamURL": "http://192.173.28.36/XHBH_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/la-mejor-98-5-fm.png",
+     "desc": "Guerrero",
+     "longDesc": ""
+     },
+     ]
+ }

@@ -1,182 +1,201 @@
-{"items": [
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
-        "time": "",
-        "title": ""
-    },
-]}
+{
+    "station":
+    [
+     {
+     "name": "Frecuencia Mexico",
+     "streamURL": "http://184.107.217.186:8652/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/frecuencia-mexico-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 97.3 FM",
+     "streamURL": "http://192.173.28.40/XHVZ_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/la-mejor-97-3-fm-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Extasis Digital 107.7 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhasm.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/extasis-digital-1340-am-y-107-7-fm-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mexicana 90.3 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhjpa.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/la-mexicana-90-3-fm-y-1190-am-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "LOS 40 PRINCIPALES 93.3 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhtb.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/los-40-principales-93-3-fm-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "La Picuda 94.9 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhsw.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/la-mas-picuda-94-9-fm-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "La Bestia Grupera 104.5 FM",
+     "streamURL": "http://192.173.28.39/XHCT_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/la-bestia-104-5-fm-cuautla.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Club Insomnio",
+     "streamURL": "http://108.163.177.42:2433/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/clubinsomnio.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Radiológico 100.1 FM",
+     "streamURL": "http://184.107.217.186:9998/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/radiologico-100-1-fm-temixco.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Formula Cuernavaca 106.9 FM",
+     "streamURL": "http://64.15.187.58:8000/cuernavaca",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/radio-formula-106-9-fm-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Tepoztlán",
+     "streamURL": "http://209.105.250.69:8203/envivo128",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/radio-tepoztlan-92-3-fm.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "W Radio",
+     "streamURL": "http://208.80.54.46/W_RADIO_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/w-radio-1190-am-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Mundo 96.5 FM",
+     "streamURL": "http://radiohosting.com.mx:8556/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/mundo-96-5-fm.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "105.3 FM CAPITAL",
+     "streamURL": "http://69.31.54.143/XHCMR_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/capital-fm-105-3-fm.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Temixco Radio",
+     "streamURL": "http://gpazos.centrocibernetico.com:42000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/temixco-radio.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Chinelo",
+     "streamURL": "http://108.163.177.42:2467/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/radio-chinelo-cuernavaca.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Stereo Mix",
+     "streamURL": "http://s2.radioboss.fm:8588/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/estereomix-radio.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "La MX 98",
+     "streamURL": "http://listen.radionomy.com/lamx98",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/la-mx-98.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Cuautla Web.mx",
+     "streamURL": "http://192.99.6.50:9968/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/radio-cuautlaweb.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Cumbias Inmortales Mix",
+     "streamURL": "http://streaming.radionomy.com/CUMBIASINMORTALESMIXRADIO",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/cumbias-inmortales-mix.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Explosiva Radio",
+     "streamURL": "http://192.99.14.225:9958/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/explosivaradio.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Baladas del Recuerdo",
+     "streamURL": "http://streaming.radionomy.com/BaladasdelRecuerdo",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/baladas-del-recuerdo.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Radioneta",
+     "streamURL": "http://198.50.155.112:8100/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/radioneta.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Famident",
+     "streamURL": "http://streaming.radionomy.com/Famident",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/famident.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "OLAQUE RADIO",
+     "streamURL": "http://192.99.6.50:9900/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/olaque-radio.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Morelos FM",
+     "streamURL": "http://192.99.2.48:8334/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/morelos-fm.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Elevación",
+     "streamURL": "http://72.29.70.19:8290/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/radio-elevacion.png",
+     "desc": "Morelos",
+     "longDesc": ""
+     },
+     ]
+ }
