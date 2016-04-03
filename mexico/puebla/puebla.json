@@ -1,182 +1,222 @@
-{"items": [
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/",
-        "time": "",
-        "title": ""
-    },
-]}
+{
+    "station":
+    [
+     {
+     "name": "La Grupera 89.3 FM",
+     "streamURL": "http://174.122.121.106:8000/grupera-mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/la-grupera-89-3-fm-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Mix 91.7 FM",
+     "streamURL": "http://192.173.28.34/XHRCFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/mix-91-7-fm-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Oro 94.9 FM",
+     "streamURL": "http://208.80.54.126/XHRCFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radyo-oro-94-9-fm-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Puebla 92.5 FM",
+     "streamURL": "http://issultra.endavomedia.com:8000/ultrapuebla.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/ultra-puebla-92-5-fm.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio BUAP",
+     "streamURL": "http://148.228.154.24:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-buap-96-9-fm-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "XMusic Hits 95.3 FM",
+     "streamURL": "http://streaming.radionomy.com/Xmusic-hits-Musica",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/x-music-95-3-fm-cholula.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "abc 1280 AM",
+     "streamURL": "http://192.99.14.225:9936/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/abc-radio-1280-am-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Formula 1120 AM",
+     "streamURL": "http://174.122.121.106:8000/formula-mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/formula-1120-am-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "HR 1090 AM",
+     "streamURL": "http://174.122.121.106:8000/hr-mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/la-hr-1090-am-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "EXA 102.9 FM",
+     "streamURL": "http://pump.com.mx:8035/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/exa-102-9-fm-tehuacan.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "IMAGEN RADIO 105.1",
+     "streamURL": "http://208.80.54.29/XEDAFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/imagen-radio-105-1-fm-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio en Redes",
+     "streamURL": "http://67.23.248.58:9996/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-en-redes-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Sexenio FM",
+     "streamURL": "http://85.17.30.50:8339/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/sexenio-fm-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "El Planeta Radio",
+     "streamURL": "http://192.99.14.225:9952/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/el-planeta-radio-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mexicana 91.1 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhfs.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/la-mexicana-91-1-fm-y-980-am-izucar-de-matamoros.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "La Poderosa 880 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xertp.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/la-poderosa-880-am-san-martin-texmelucan.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Teziutlan 90.9 FM",
+     "streamURL": "http://giss.tv:8000/teziutlanfm.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-teziutlan-90-9-fm.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Impacto 99.7 FM",
+     "streamURL": "http://108.163.177.42:2427/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-impacto-99-7-fm-teziutlan.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 100.7 FM",
+     "streamURL": "http://www.pump.com.mx:8030/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/la-mejor-100-7-fm-tehuacan.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Ke Buena 1010 AM",
+     "streamURL": "http://192.99.100.24:9035/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/ke-buena-puebla-1010-am.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Libres 95.9 FM",
+     "streamURL": "http://giss.tv:8001/libresfm.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/libres-95-9-fm.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "CD 1170 AM",
+     "streamURL": "http://198.50.118.50:8084/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-oro-am-1170.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "RADIO ORO 11.70 AM",
+     "streamURL": "http://198.50.118.50:8084/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-oro-1170-am-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Ke Buena 1010 AM",
+     "streamURL": "http://192.99.100.24:9035/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/ke-buena-puebla-1010-am.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 1250 AM",
+     "streamURL": "http://184.107.179.162:1037/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/la-mejor-1250-am.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Ibero",
+     "streamURL": "http://radio.iberopuebla.mx:8000/live",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/ibero-radio-puebla.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Argos Cursa",
+     "streamURL": "http://72.29.92.202:7080/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/argos-cursa-radio.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Anime",
+     "streamURL": "http://192.187.112.50:8108/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-anime-teziutlan.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Sinergia",
+     "streamURL": "http://shoutcast.starhost.com.mx:8036/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/sinergia-radio.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Cosechando Almas",
+     "streamURL": "http://204.12.193.98:8375/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/cosechando-almas.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     {
+     "name": "Deliquio Alternativo",
+     "streamURL": "http://listen.radionomy.com/deliquioalternativomxradio",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/deliquio-alternativo.png",
+     "desc": "Puebla",
+     "longDesc": ""
+     },
+     ]
+ }
