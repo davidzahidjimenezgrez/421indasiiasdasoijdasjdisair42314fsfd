@@ -1,182 +1,250 @@
-{"items": [
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/",
-        "time": "",
-        "title": ""
-    },
-]}
+{
+    "station":
+    [
+     {
+     "name": "Radio Lobo Hermosillo",
+     "streamURL": "http://192.99.2.48:8606/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/radio-lobo-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Fiesta Mexicana 90.7 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhldc.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/fiesta-mexicana-90-7-fm-magdalena-de-kino.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Maxima 96.3 FM",
+     "streamURL": "http://www.tuasesorweb.com:8028/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/maxima-96-3-fm-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Tremenda 96.5 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhita.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-tremenda-96-5-fm-puerto-penasco.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 98.5 FM",
+     "streamURL": "http://208.80.54.31/XHBH_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-mejor-98-5-fm-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Amor 101 FM",
+     "streamURL": "http://184.107.179.162:4474/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/amor-101-fm-guaymas.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Fiesta Mexicana 103.5 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhrz.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/fiesta-mexicana-103-5-fm-nogales.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Stereo 100.3 FM",
+     "streamURL": "http://204.45.15.50:2064/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/stereo-100-3-fm-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "EXA 102.7 FM",
+     "streamURL": "http://192.173.28.38/XHQT_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/exa-102-7-fm-nogales.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Universidad 107.5 FM",
+     "streamURL": "http://148.225.54.10/broadwavehigh.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/radio-universidad-107-5-fm-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "EXA 106.5 FM",
+     "streamURL": "http://50.7.29.178:9512/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/exa-106-5-fm-ciudad-obregon.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "LOS 40 PRINCIPALES",
+     "streamURL": "http://stream2.dyndns.org:8000/xhsn.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/los-40-principales-106-7-fm-nogales.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Z93 FM",
+     "streamURL": "http://204.45.15.50:2068/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/z-93-fm-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Invasora 101.9 FM",
+     "streamURL": "http://204.45.15.50:2066/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/invasora-101-9-fm-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Unica 1100 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xenas.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-unica-1100-am-navojoa.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Romantica 1290 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xeap.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/romantica-1290-am-ciudad-obregon.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Invasora 90.5 FM",
+     "streamURL": "http://204.45.15.50:2070/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/invasora-90-5-fm-ciudad-obregon.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Poderosa 1150 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xeso.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-poderosa-1150-am-ciudad-obregon.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "XTASIS 92.1 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xeobs.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/extasis-92-1-fm-y-1070-am-ciudad-obregon.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Sin Limites 101.1 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhvss.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/sin-limites-101-1-fm-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Romantica 1240 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhsm.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/romantica-1240-am-nogales.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "W RADIO 1300 AM",
+     "streamURL": "http://69.31.54.135/W_RADIO_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/w-radio-1300-am-nogales.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Sol 106.1 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhppo.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/stereo-sol-106-1-puerto-penasco.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "ZOOM 95.5 FM",
+     "streamURL": "http://74.208.45.202:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/zoom-95-5-fm-hermosillo.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "FM 105 105.3 FM",
+     "streamURL": "http://69.175.94.98:8006/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/fm-105-105-3-fm-guaymas.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 103.3 FM",
+     "streamURL": "http://50.7.29.178:8199/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-mejor-103-3-fm-ciudad-obregon.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 96.7 FM",
+     "streamURL": "http://208.80.54.27/XHNGS_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-mejor-fm-96-7-nogales.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "RADIO FORMULA 960 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xeiq.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/radio-formula-960-am-ciudad-obregon.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "SONIKA 105.1 FM",
+     "streamURL": "http://tuasesorweb.com:8058/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/sonika-105-1-fm.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "AMOR 92.3 FM",
+     "streamURL": "http://208.80.54.39/XHUSSFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/amor-92-3-92-3-fm.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "Sonora Classic Rock",
+     "streamURL": "http://s18.myradiostream.com:6664/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/sonora-classic-rock.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Reyna del Cobre 99.1 FM",
+     "streamURL": "http://192.173.28.37/XHNZI_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-reyna-del-cobre-99-1-fm.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Consentida 93.3 FM",
+     "streamURL": "http://live.str3am.com:3100/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-consentida-93-3-fm.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "TOÑO 1130 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhsm.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/tono-1130-am.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     {
+     "name": "La Tremenda 98.5 FM",
+     "streamURL": "http://zer.zuperdns.net:9850/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-tremenda-98-5-fm.png",
+     "desc": "Sonora",
+     "longDesc": ""
+     },
+     ]
+ }

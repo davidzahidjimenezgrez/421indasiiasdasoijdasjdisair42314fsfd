@@ -1,183 +1,117 @@
-{"items": [
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-    {
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-	{
-        "streams": [
-            {
-                "playlist": [""],
-                "bitrate": 24,
-                "metaint": true,
-                "live": true,
-                "url_m3u": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/"
-            }
-        ],
-        "genre": "",
-        "logo": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/",
-        "time": "",
-        "title": ""
-    },
-]}
-]}
+{
+    "station":
+    [
+     {
+     "name": "XEVA 91.7 FM",
+     "streamURL": "http://signals.centrocibernetico.com:29030/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/xeva-790-am-y-91-7-fm-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "EXA 88.5 FM",
+     "streamURL": "http://108.163.177.42:2425/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/exa-88-5-fm-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "La Poderosa 92.5 FM",
+     "streamURL": "http://stream2.dyndns.org:8000/xhtr.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/la-poderosa-92-5-fm-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mejor 98.3 FM",
+     "streamURL": "http://66.240.202.106:9088/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/la-mejor-98-3-fm-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "Ya! 95.7 FM",
+     "streamURL": "http://gpazos.centrocibernetico.com:19020/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/ya-fm-95-7-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "Capital 106.3 FM",
+     "streamURL": "http://192.173.28.37/XHRV_FM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/radio-capital-106-3-fm-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "Amor 96.5 FM",
+     "streamURL": "http://208.80.54.57/XHOPFM_SC",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/amor-96-5-fm-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "W Radio 1270 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/xevht.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/w-radio-1270-am-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "Romantica 940 AM",
+     "streamURL": "http://stream2.dyndns.org:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/romantica-940-am-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Esperanza",
+     "streamURL": "http://listen.radionomy.com/esperanza-7",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/radio-esperanza-7-villahermosa",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "Mega 94.9 FM",
+     "streamURL": "http://transmisionesdigitales.com:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/mega-94-9-fm-villahermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "VILLA HERMOSA PRIMERA CADENA 620 AM",
+     "streamURL": "http://64.15.187.58:8000/villahermosa",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/radio-formula-primerca-cadena-620-am-villa-hermosa.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "Escuchando al Padre",
+     "streamURL": "http://92.222.238.73:9162/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/escuchando-al-padre.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "LA GRANDE DE TABASCO 570 AM",
+     "streamURL": "http://mediaservicios.com.mx:8048/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/la-grande-de-tabasco-570-am.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "TABASCO HOY RADIO 90.9 FM",
+     "streamURL": "http://173.236.44.30:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/tabasco-hoy-radio-90-9-fm.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Centinela",
+     "streamURL": "http://37.187.90.121:4012/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/radio-centinela-mx.png",
+     "desc": "Tabasco",
+     "longDesc": ""
+     },
+     ]
+ }
