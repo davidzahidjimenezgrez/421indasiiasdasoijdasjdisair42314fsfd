@@ -1,20 +1,7 @@
 {
     "station":
     [
-     {
-     "name": "105 Digital Online",
-     "streamURL": "http://201.159.48.106:8080/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/105digitalonline.png",
-     "desc": "Aguscalientes",
-     "longDesc": ""
-     },
-     {
-     "name": "La Invasora 98.9",
-     "streamURL": "http://201.159.48.105:8080/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lainvasora.png",
-     "desc": "Aguscalientes",
-     "longDesc": ""
-     },
+
      {
      "name": "La Mejor FM",
      "streamURL": "http://tunein.gvstream.net:9232/",

@@ -2,16 +2,65 @@
     "station":
     [
      {
-     "name": ",
-     "streamURL": "",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/cristianas.json",
+     "name": "Mbo Naciones",
+     "streamURL": "http://rcri1.com:9110",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/mbonaciones.jpg",
      "desc": "Cristiana",
      "longDesc": ""
      },
           {
-     "name": ",
-     "streamURL": "",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/cristianas.json",
+     "name": "Radio ICIAR",
+     "streamURL": "http://rcri1.com:8010",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/iciar.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Nuevo Amanecer",
+     "streamURL": "http://rcri1.com:9046",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/nuevoamanecer.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+               {
+     "name": "Radio Zuriel",
+     "streamURL": "http://rcri1.com:8030",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/radiozuriel.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+               {
+     "name": "Dios Salva America",
+     "streamURL": "http://rcri1.com:9108",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/diossalvamerica.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                    {
+     "name": "Celestial Stereo Colombia",
+     "streamURL": "http://rcri1.com:9106",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/celestial.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                    {
+     "name": "Radio Guamaral",
+     "streamURL": "http://rcri1.com:1935",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/guamaral.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                    {
+     "name": "Ejad Radio",
+     "streamURL": "http://rcri1.com:9148",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/ejadradio.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                    {
+     "name": "Radio Armonia",
+     "streamURL": "http://encoder.armonia.cl:2032/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/armonia.jpg",
      "desc": "Cristiana",
      "longDesc": ""
      },
