@@ -1,24 +1,18 @@
 {
     "station":
     [
+    
+        {
+     "name": "Radio Cristiana Juvenil",
+     "streamURL": "http://162.219.26.67:9542/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/cristianajuvenil.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
      {
      "name": "Mbo Naciones",
      "streamURL": "http://rcri1.com:9110",
      "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/mbonaciones.jpg",
-     "desc": "Cristiana",
-     "longDesc": ""
-     },
-          {
-     "name": "Radio ICIAR",
-     "streamURL": "http://rcri1.com:8010",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/iciar.jpg",
-     "desc": "Cristiana",
-     "longDesc": ""
-     },
-          {
-     "name": "Radio Nuevo Amanecer",
-     "streamURL": "http://rcri1.com:9046",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/nuevoamanecer.jpg",
      "desc": "Cristiana",
      "longDesc": ""
      },
@@ -43,13 +37,7 @@
      "desc": "Cristiana",
      "longDesc": ""
      },
-                    {
-     "name": "Radio Guamaral",
-     "streamURL": "http://rcri1.com:1935",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/guamaral.png",
-     "desc": "Cristiana",
-     "longDesc": ""
-     },
+
                     {
      "name": "Ejad Radio",
      "streamURL": "http://rcri1.com:9148",
@@ -64,6 +52,42 @@
      "desc": "Cristiana",
      "longDesc": ""
      },
+                    {
+     "name": "Adoración Radio",
+     "streamURL": "http://zenorad.io:10282/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/adoracionradio.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                         {
+     "name": "Radio Cristiana",
+     "streamURL": "http://69.175.122.50:8132/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/blogcristiano.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                              {
+     "name": "Radio Cristiana 24 horas",
+     "streamURL": "http://107.150.32.114:8300/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/blogcristiano.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                              {
+     "name": "Radio Cristiana 100.5 FM",
+     "streamURL": "http://107.161.127.202:11718/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/blogcristiano.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                              {
+     "name": "Radio Restauración Cristiana",
+     "streamURL": "http://buzziz2.serverroom.us:6134/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/restauracion.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+
 
     ]
 }
