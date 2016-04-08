@@ -1,0 +1,195 @@
+{
+    "station":
+    [
+    
+     {
+     "name": "92.9 tu FM",
+     "streamURL": "http://streaming2.globalhost.net.ve:9188/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s140977q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "93.1 fm radio",
+     "streamURL": "http://190.74.146.216:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s182764q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Adulto Joven",
+     "streamURL": "http://streaming2.globalhost.net.ve:9168/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s8345q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Alba Ciudad",
+     "streamURL": "http://envivo.albaciudad.org:8000/albaciudad.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s130168q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Caliente Stereo",
+     "streamURL": "http://laradiohd.com:8335/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s14018q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Candela Pura",
+     "streamURL": "http://streaming2.globalhost.net.ve:9020/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s136824q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Caracas 107.3 Fm",
+     "streamURL": "http://94.23.35.151:9010/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s200940q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Deportes Unión Radio",
+     "streamURL": "http://ur58.lorini.net:2090/DEPORTES.aac",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s14021q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Deportiva",
+     "streamURL": "http://streaming3.globalhost.net.ve:9018/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s86544q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Éxitos FM",
+     "streamURL": "http://ur58.lorini.net:2070/EXITOS.aac",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s17623q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Fiesta 106.5 FM",
+     "streamURL": "http://streaming2.globalhost.net.ve:9012/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s104286q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Hot 94",
+     "streamURL": "http://streaming3.globalhost.net.ve:9016/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s25951q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mega Estación",
+     "streamURL": "http://ur58.lorini.net:11073/megaccs.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s25986q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "La Perla Del Tuy",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "La Romántica",
+     "streamURL": "http://streaming3.globalhost.net.ve:8068/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s6097q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Lider 94.9 FM",
+     "streamURL": "http://laradiohd.com:9934/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s203173q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "MK 104.9 FM",
+     "streamURL": "http://streaming3.globalhost.net.ve:9128/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s157159q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Mundial Radio",
+     "streamURL": "http://190.9.128.238:8080/radiomundial",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s47276q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+      {
+     "name": "Musik",
+     "streamURL": "http://184.107.179.162:2547/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s86534q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Onda FM",
+     "streamURL": "http://ur58.lorini.net:2060/ONDA.aac",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s24782q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Oratoria Radio Network",
+     "streamURL": "http://streaming3.globalhost.net.ve:9284/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s245727q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Pacífica 90.7 FM",
+     "streamURL": "http://107.170.95.131:9860/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s179115q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Play FM",
+     "streamURL": "http://bb1.globalhost.co.ve:8000/PLAYSTEREO.aac",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s14014q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Pop",
+     "streamURL": "http://184.107.179.162:6544/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s140854q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Capital",
+     "streamURL": "http://190.74.112.17:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s14020q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Caracas Radio",
+     "streamURL": "http://lortel58.lorini.net:1062/RCRenlace",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s140970q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Continente",
+     "streamURL": "http://streaming.capasiete.com:7054/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s186830q.png",
+     "desc": "Caracas, Venezuela",
+     "longDesc": ""
+     },
+    ]
+}
