@@ -1,0 +1,77 @@
+{
+    "station":
+    [
+    
+     {
+     "name": "Católica Radio",
+     "streamURL": "http://stream.rarserver.net:8078/catolicapr",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/catolicaradio.png",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "Católica Web Radio",
+     "streamURL": "http://whmsonic2.ipstm.net:9826/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/catolicawebradio.png",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "Católica Springfield",
+     "streamURL": "http://69.175.94.98:8061/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/catolicaspringf.jpg",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Católica La Paz de Cristo",
+     "streamURL": "http://108.163.166.99:9868/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/lapazdecristo.png",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Católica Hosanna",
+     "streamURL": "http://audio.streamingmedios.com:9745/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/hossana.png",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Misión Católica",
+     "streamURL": "http://usa7.fastcast4u.com:5791/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/misioncatolic.jpg",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "La Misionera Católica",
+     "streamURL": "http://96.127.183.74:8546/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/s209187q.png",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Católica Jesús Y María",
+     "streamURL": "http://142.4.216.91:8046/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/s260360q.png",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Elohim 1120 AM",
+     "streamURL": "http://radio.elsalvadordigital.com:8002/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/013808a897839227ff5d677ed6dcff22.png",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Católica WGUA",
+     "streamURL": "http://99.198.107.186:8596/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/catolicas/s263436q.png",
+     "desc": "Católica",
+     "longDesc": ""
+     },
+    
+    ]
+}
