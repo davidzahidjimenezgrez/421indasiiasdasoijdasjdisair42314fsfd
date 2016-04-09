@@ -8,32 +8,18 @@
      "desc": "Horario de transmisión: 7 a.m. a 7 p.m.",
      "longDesc": "Radio Huayacocotla La Voz de los Campesinos es una emisora que está localizada en Huayacocotla, Veracruz un pequeño poblado de cinco mil habitantes, en la región de la Sierra Norte de Veracruz, México. Es cabecera municipal de 26 comunidades, 25 rancherías, y cabecera judicial y política de los demás municipios situados en la Sierra Norte de Veracruz. Forma parte de la micro-región de Chicontepec, que abarca a los municipios de Zacualpan, Ilamatlán, Tlachichilco, Zontecomatlán y Texcatepec. Es escuchada en la Sierra Norte de Veracruz, en la Huasteca de Hidalgo, en la Sierra de Puebla, en la Huasteca de San Luis Potosí, en la Sierra Gorda de Querétaro y la Huasteca de Tamaulipas; en su mayoría por personas de comunidades indígenas de los pueblos Otomí, Náhuatl y Tepehua. Actualmente se escucha en 1300 pueblos y comunidades de 140 municipios."
      },
-       {
-     "name": "Atenco el cuerpo es memoria",
-     "streamURL": "http://www.fomento.org.mx/novedades/Atenco.mp3",
-     "imageURL": "https://lh3.ggpht.com/Ir3L-1PAemiOTcip460Hmft_fPecwVU_PTOwkvYDXtqZMHKq5wbCVRaMfa7vRMLKMpY=w300",
-     "desc": "Programa del Mes",
-     "longDesc": ""
-     },
-         {
-     "name": "Día del la Libertad de Prensa",
-     "streamURL": "http://www.fomento.org.mx/novedades/Libertad_prensa_2012.mp3",
-     "imageURL": "https://lh3.ggpht.com/Ir3L-1PAemiOTcip460Hmft_fPecwVU_PTOwkvYDXtqZMHKq5wbCVRaMfa7vRMLKMpY=w300",
-     "desc": "Programa del Mes",
-     "longDesc": ""
-     },
-         {
-     "name": "La mujer indígena y la costumbre del Chicomexochitl",
-     "streamURL": "http://www.fomento.org.mx/novedades/costumbre%20_chicomexochitl.mp3",
-     "imageURL": "https://lh3.ggpht.com/Ir3L-1PAemiOTcip460Hmft_fPecwVU_PTOwkvYDXtqZMHKq5wbCVRaMfa7vRMLKMpY=w300",
-     "desc": "Programa del Mes",
-     "longDesc": ""
-     },
               {
      "name": "La Fuerza de tu Amor",
      "streamURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/lafuerzadetuamor.mp3",
      "imageURL": "http://ecx.images-amazon.com/images/I/51Hf-THRXaL.jpg",
      "desc": "Agrupación: Trio Estrella Zacualtipense Compositor: Arturo Jiménez Rivera",
+     "longDesc": ""
+     },
+                   {
+     "name": "De Un Rancho a Otro",
+     "streamURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/deunranchoautenticos.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/images/autenticos.jpg",
+     "desc": "Autenticos de Durango",
      "longDesc": ""
      },
     ]
