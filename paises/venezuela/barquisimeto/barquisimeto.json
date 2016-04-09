@@ -1,14 +1,13 @@
 {
     "station":
     [
-    
      {
      "name": "B-96 FM",
      "streamURL": "http://lortel58.lorini.net:63100/B96FM",
      "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s112077q.png",
      "desc": "Barquisimeto, Venezuela",
      "longDesc": ""
-     }
+     },
      {
      "name": "Éxitos FM",
      "streamURL": "http://ur58.lorini.net:2070/EXITOS.aac",
@@ -114,7 +113,5 @@
      "desc": "Barquisimeto, Venezuela",
      "longDesc": ""
      },
-     
- 
     ]
 }
