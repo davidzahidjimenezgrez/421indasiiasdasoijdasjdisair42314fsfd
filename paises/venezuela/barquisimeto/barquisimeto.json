@@ -1,0 +1,120 @@
+{
+    "station":
+    [
+    
+     {
+     "name": "B-96 FM",
+     "streamURL": "http://lortel58.lorini.net:63100/B96FM",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s112077q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     }
+     {
+     "name": "Éxitos FM",
+     "streamURL": "http://ur58.lorini.net:2070/EXITOS.aac",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s17623q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Fama 98.1",
+     "streamURL": "http://ur58.lorini.net:50000/FAMA981FM",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s128957q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Imagen 105.7 FM",
+     "streamURL": "http://redradioypc.com:8054/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s172770q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mega",
+     "streamURL": "http://ur58.lorini.net:35000/LAMEGA1033FM",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s96924q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "La Mega, Barquisimeto",
+     "streamURL": "http://ur58.lorini.net:10000/LAMEGA1009FM",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s96924q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Mas Network",
+     "streamURL": "http://laradiohd.com:8715/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s140044q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Mas Network Acarigua",
+     "streamURL": "http://laradiohd.com:8535/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s252632q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "MAXIMA 105.3 FM",
+     "streamURL": "http://audio.plugstream.net:8075/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s161114q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Barquisimeto",
+     "streamURL": "http://bb1.globalhost.co.ve:8000/BARQUISIMETO960",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s0q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Fe Y Alegria (Barquisimeto)",
+     "streamURL": "http://198.15.77.50:9472/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s205012q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "RADIO MINUTO 106.1 FM",
+     "streamURL": "http://lortel28.lorini.net:2040/RadioMinuto106",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s154927q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Minuto 790 am",
+     "streamURL": "http://lortel28.lorini.net:2010/RadioMinuto790",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s183349q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Onda (Barquisimeto)",
+     "streamURL": "http://ur58.lorini.net:35000/ONDA1045FM",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s183940q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Rebelarte 107.1 FM",
+     "streamURL": "http://redradioypc.com:8053/live",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s259916q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     {
+     "name": "Stereo Quibor",
+     "streamURL": "http://216.231.129.18:8195/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s143460q.png",
+     "desc": "Barquisimeto, Venezuela",
+     "longDesc": ""
+     },
+     
+ 
+    ]
+}
