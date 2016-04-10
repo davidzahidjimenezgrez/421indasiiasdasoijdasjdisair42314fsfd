@@ -1,0 +1,468 @@
+{
+    "station":
+    [
+      
+     {
+     "name": "AM 1550 - Estacion Quince Cincuenta",
+     "streamURL": "http://200.58.118.108:8312/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s232818q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "AM 530",
+     "streamURL": "http://200.68.81.65:8000/am530",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/logohead-1.jpg",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "AM Lider",
+     "streamURL": "http://hdime.com:8024/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s120493q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "AM950 Belgrano",
+     "streamURL": "http://streamlky.alsolnet.com:443/radio9",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s109178q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Amadeus Cultura Musical",
+     "streamURL": "http://streaming.radiolinksmedia.com:8484/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s162965q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+      {
+     "name": "Amplitud",
+     "streamURL": "http://200.58.106.247:8578/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s84757q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Argentina Travel Radio",
+     "streamURL": "http://streaming101.radionomy.com/RadionoMiX",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s181138q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "ArInfo",
+     "streamURL": "http://23.29.123.98:11010/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s8310q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Autonoma FM",
+     "streamURL": "http://91.121.134.23:8000/autonomafm.ogg",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s143333q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Blue FM",
+     "streamURL": "http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/elr_bluefm.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Class FM",
+     "streamURL": "http://streaming01.dwservers.net:8400/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s13689q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Decadas AM 1090",
+     "streamURL": "http://72.55.133.101:8100/live",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s105609q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "DIEZ57GSM",
+     "streamURL": "http://192.95.16.140:12080/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s121641q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "ECO Medios AM 1220",
+     "streamURL": "http://190.210.30.253:1800/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s17054q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Emisora Colon Fm",
+     "streamURL": "http://200.58.112.14:11955/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s121536q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "En Transito FM",
+     "streamURL": "http://173.230.155.240:8090/stream.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s83944q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Espacio Power 90.9",
+     "streamURL": "http://streamingraddios.com:10324/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s143378q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Estacion AM",
+     "streamURL": "http://streamall.alsolnet.com:443/estacion820hd",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s83948q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Estirpe Nacional",
+     "streamURL": "http://ded35.server54.net:8010/radio_estirpe_nacional",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s86818q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Extremo FM",
+     "streamURL": "http://50.7.70.43:9948/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s228780q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "FM 107.5 Vida",
+     "streamURL": "http://giss.tv:8001/radiovida1075.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s102596q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "FM 89.90",
+     "streamURL": "http://vivo.radioconvos.com.ar/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s180750q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "FM 91.3 Transformación de Coronel Pringles",
+     "streamURL": "http://200.5.72.135:8000/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s25915q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "FM 93.5 Touche",
+     "streamURL": "http://69.175.89.18:8214/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s109227q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": "El espíritu independiente, nunca estuvo tan vivo."
+     },
+     {
+     "name": "FM America Digital",
+     "streamURL": "http://200.43.22.254:8040/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s123402q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "FM Centro",
+     "streamURL": "http://192.95.16.140:12034/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s213589q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "FM Ciudad",
+     "streamURL": "http://serverstreamgroup.biz:8164/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s129091q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "FM Crisol",
+     "streamURL": "http://99.198.110.162:8092/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s113775q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "FM Eclipse",
+     "streamURL": "http://74.63.198.162:9774/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s83935q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "FM Enigma",
+     "streamURL": "http://giss.tv:8001/enigmatandil.mp3",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s206360q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "FM Espacio",
+     "streamURL": "http://questreaming.info:27138/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s103248q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "FM Estacion Pilar",
+     "streamURL": "http://radio02.ferozo.com:8522/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/s113735q.png",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/buenosaires/",
+     "desc": "Buenos Aires, Argentina",
+     "longDesc": ""
+     },    
+      {
+     "name": "Cadena Latina Salta",
+     "streamURL": "http://cadenalatinasalta.ddns.net:8000/cadenalatinasalta",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s102652q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Cielo FM",
+     "streamURL": "http://streaming.aacplusargentina.com:8528/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s8148q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "CLAVE FM",
+     "streamURL": "http://s3.myradiostream.com:4240/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s185682q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": "Radio de la Universidad Católica de Salta"
+     },
+     {
+     "name": "FM 101.3 CACHI",
+     "streamURL": "http://108.163.190.212:9708/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s266768q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "FM Capital Salta 97.7",
+     "streamURL": "http://streaming01.digitalwebs.com.ar:8700/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s141092q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+      {
+     "name": "La Estación FM",
+     "streamURL": "http://s2.netradiofm.com:6138/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s84343q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Level Rock FM",
+     "streamURL": "http://207.210.120.98:10025/vivo",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s103932q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio 10 Salta",
+     "streamURL": "http://200.110.145.2:8136/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s184103q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Aries",
+     "streamURL": "http://radio02.ferozo.com:8344/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s83555q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Dinamo Salta",
+     "streamURL": "http://01.solumedia.com.ar:8144/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s239941q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Fantastico Macondo",
+     "streamURL": "http://radio.solumedia.com.ar:8090/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s172624q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Guemes",
+     "streamURL": "http://190.61.250.140:8022/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s2847q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio María Argentina",
+     "streamURL": "http://50.7.181.186:8004/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s33353q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Nacional (Salta)",
+     "streamURL": "http://icecast01.dcarsat.com.ar:8000/sc_rad4",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s142027q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Revista Salta",
+     "streamURL": "http://revistajuridica.no-ip.org:8002/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s229715q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Sophia",
+     "streamURL": "http://65.254.42.234:14020/vivo",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s103934q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Universidad Nacional de Salta",
+     "streamURL": "http://radio.netyco.com:7264/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s155671q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+      {
+     "name": "FM Dinamica",
+     "streamURL": "http://142.4.201.73:8995/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "FM Romance",
+     "streamURL": "http://142.4.201.73:9998/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s103334q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Metropolitana 93.5",
+     "streamURL": "http://184.107.166.66:8134/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s234792q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Metropolitana FM",
+     "streamURL": "http://142.4.201.73:8575/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s128463q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": "Solo la mejor música por Metropolitana FM."
+     },
+     {
+     "name": "Radio Al Mahdi",
+     "streamURL": "http://142.4.201.73:8903/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s173723q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+      {
+     "name": "Radio Contacto",
+     "streamURL": "http://142.4.201.73:8771/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s103333q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Famailla",
+     "streamURL": "http://142.4.201.73:8513/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s99566q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Independencia",
+     "streamURL": "http://108.163.190.212:9692/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s108390q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Jerusalén Fm 90.9",
+     "streamURL": "http://206.190.141.116:8188/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s213896q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio La Cocha FM",
+     "streamURL": "http://184.154.177.106:8128/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s182431q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio La Compañera",
+     "streamURL": "http://142.4.201.73:8897/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s173754q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio María Argentina",
+     "streamURL": "http://50.7.181.186:8004/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s33353q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Nacional (Tucuman)",
+     "streamURL": "http://icecast01.dcarsat.com.ar:8000/sc_rad15",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s142032q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Tucuman",
+     "streamURL": "http://38.86.49.2:9545/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s26011q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+    ]
+}

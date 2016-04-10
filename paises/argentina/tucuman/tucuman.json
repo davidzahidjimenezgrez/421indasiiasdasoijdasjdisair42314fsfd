@@ -1,0 +1,105 @@
+{
+    "station":
+    [
+      
+     {
+     "name": "FM Dinamica",
+     "streamURL": "http://142.4.201.73:8995/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "FM Romance",
+     "streamURL": "http://142.4.201.73:9998/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s103334q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Metropolitana 93.5",
+     "streamURL": "http://184.107.166.66:8134/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s234792q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Metropolitana FM",
+     "streamURL": "http://142.4.201.73:8575/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s128463q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": "Solo la mejor música por Metropolitana FM."
+     },
+     {
+     "name": "Radio Al Mahdi",
+     "streamURL": "http://142.4.201.73:8903/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s173723q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+      {
+     "name": "Radio Contacto",
+     "streamURL": "http://142.4.201.73:8771/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s103333q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Famailla",
+     "streamURL": "http://142.4.201.73:8513/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s99566q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Independencia",
+     "streamURL": "http://108.163.190.212:9692/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s108390q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Jerusalén Fm 90.9",
+     "streamURL": "http://206.190.141.116:8188/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s213896q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio La Cocha FM",
+     "streamURL": "http://184.154.177.106:8128/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s182431q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio La Compañera",
+     "streamURL": "http://142.4.201.73:8897/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s173754q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio María Argentina",
+     "streamURL": "http://50.7.181.186:8004/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s33353q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Nacional (Tucuman)",
+     "streamURL": "http://icecast01.dcarsat.com.ar:8000/sc_rad15",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s142032q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Tucuman",
+     "streamURL": "http://38.86.49.2:9545/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s26011q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+   
+    ]
+}

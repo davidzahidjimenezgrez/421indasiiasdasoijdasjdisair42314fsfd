@@ -87,7 +87,13 @@
      "desc": "Cristiana",
      "longDesc": ""
      },
-
+     {
+     "name": "Radio Jerusalén Fm 90.9",
+     "streamURL": "http://206.190.141.116:8188/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s213896q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
 
     ]
 }

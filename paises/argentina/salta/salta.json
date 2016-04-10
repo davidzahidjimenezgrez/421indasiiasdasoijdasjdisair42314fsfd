@@ -1,0 +1,126 @@
+{
+    "station":
+    [
+      
+     {
+     "name": "Cadena Latina Salta",
+     "streamURL": "http://cadenalatinasalta.ddns.net:8000/cadenalatinasalta",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s102652q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Cielo FM",
+     "streamURL": "http://streaming.aacplusargentina.com:8528/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s8148q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "CLAVE FM",
+     "streamURL": "http://s3.myradiostream.com:4240/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s185682q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": "Radio de la Universidad Católica de Salta"
+     },
+     {
+     "name": "FM 101.3 CACHI",
+     "streamURL": "http://108.163.190.212:9708/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s266768q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "FM Capital Salta 97.7",
+     "streamURL": "http://streaming01.digitalwebs.com.ar:8700/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s141092q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+      {
+     "name": "La Estación FM",
+     "streamURL": "http://s2.netradiofm.com:6138/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s84343q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Level Rock FM",
+     "streamURL": "http://207.210.120.98:10025/vivo",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s103932q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio 10 Salta",
+     "streamURL": "http://200.110.145.2:8136/stream",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s184103q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Aries",
+     "streamURL": "http://radio02.ferozo.com:8344/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s83555q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Dinamo Salta",
+     "streamURL": "http://01.solumedia.com.ar:8144/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s239941q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Fantastico Macondo",
+     "streamURL": "http://radio.solumedia.com.ar:8090/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s172624q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Guemes",
+     "streamURL": "http://190.61.250.140:8022/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s2847q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio María Argentina",
+     "streamURL": "http://50.7.181.186:8004/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s33353q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Nacional (Salta)",
+     "streamURL": "http://icecast01.dcarsat.com.ar:8000/sc_rad4",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s142027q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Revista Salta",
+     "streamURL": "http://revistajuridica.no-ip.org:8002/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s229715q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     {
+     "name": "Radio Sophia",
+     "streamURL": "http://65.254.42.234:14020/vivo",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s103934q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+          {
+     "name": "Radio Universidad Nacional de Salta",
+     "streamURL": "http://radio.netyco.com:7264/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/salta/s155671q.png",
+     "desc": "Salta, Argentina",
+     "longDesc": ""
+     },
+     
+    ]
+}
