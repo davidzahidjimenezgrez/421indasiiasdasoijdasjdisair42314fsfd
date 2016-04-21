@@ -8,5 +8,12 @@
      "desc": "Azteca 13 México",
      "longDesc": "Azteca Trece en vivo, cuya emisora principal es XHDF-TV (canal 13), es un canal de televisión mexicano en abierto de ámbito nacional perteneciente a Televisión Azteca que emite desde México, D. F. Su programación, de corte generalista, está constituida principalmente por telenovelas y espectáculos entre semana; películas, deportes y concursos los fines de semana cuando tipo der programas de dos horas de habla inglesa MediaCorp Okto y alianza con Azteca en 12 estación locales, lo que la convierte en la principal rival del Canal de las Estrellas, de Grupo Televisa. "
      },
+          {
+     "name": "La Mejor FM",
+     "streamURL": "http://tunein.gvstream.net:9232/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamejorfm.png",
+     "desc": "Aguscalientes",
+     "longDesc": ""
+     },
     ]
 }
