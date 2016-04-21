@@ -4,16 +4,16 @@
      {
      "name": "Azteca 13",
      "streamURL": "http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8",
-     "imageURL": "https://ohlclassic-qnewmedia2.netdna-ssl.com/assets/images/tv-azteca-logo-large.png",
+     "imageURL": "http://vignette1.wikia.nocookie.net/logopedia/images/6/60/950_azteca-trece-hd.png/revision/latest?cb=20130610233115",
      "desc": "Azteca 13 México",
      "longDesc": "Azteca Trece en vivo, cuya emisora principal es XHDF-TV (canal 13), es un canal de televisión mexicano en abierto de ámbito nacional perteneciente a Televisión Azteca que emite desde México, D. F. Su programación, de corte generalista, está constituida principalmente por telenovelas y espectáculos entre semana; películas, deportes y concursos los fines de semana cuando tipo der programas de dos horas de habla inglesa MediaCorp Okto y alianza con Azteca en 12 estación locales, lo que la convierte en la principal rival del Canal de las Estrellas, de Grupo Televisa. "
      },
           {
-     "name": "La Mejor FM",
-     "streamURL": "http://tunein.gvstream.net:9232/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamejorfm.png",
-     "desc": "Aguscalientes",
-     "longDesc": ""
+     "name": "FOX",
+     "streamURL": "http://zeyu.ucoz.es/foxchannelenvivo.html",
+     "imageURL": "http://www.lamac.org/res/channels/logos/_0035_fox.png",
+     "desc": "FOX",
+     "longDesc": "Fox en vivo, Fox Channel Es una empresa perteneciente al grupo de Fox International Channels, integrando parte de News Corporation que opera varios canales en la mayor parte de los países de América Latina y Brasil. Su oficina central se encuentra en Los Angeles, California. Las señales se arman en su mayoría desde Buenos Aires, Argentina, y desde allí se emiten al resto de los países a través de la empresa TIBA Telepuerto Internacional Buenos Aires. Tiene oficinas locales en Colombia, Venezuela, Brasil, Chile, México y Guatemala. En Colombia produce contenido propio a través de Fox Telecolombia, donde de produjeron series como Tiempo final, Mental y Kdabra. "
      },
     ]
 }
