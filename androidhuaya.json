@@ -1,1 +1,47 @@
-
+{"items": [
+    {
+        "streams": [
+            {
+                "playlist": ["http://radiohuaya.iberopuebla.edu.mx:8000/xhfce"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://radiohuaya.iberopuebla.edu.mx:8000/xhfce"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Radio Comunitaria",
+        "logo": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/images/huaya.jpg",
+        "time": "7 am a 7 pm",
+        "title": "Radio Huaya"
+    },
+    {
+        "streams": [
+            {
+                "playlist": ["https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/lafuerzadetuamor.mp3"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/lafuerzadetuamor.mp3"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Huapangos",
+        "logo": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/images/huaya.jpg",
+        "time": "",
+        "title": "La Fuerza de tu Amor"
+    }
+  
+]}
