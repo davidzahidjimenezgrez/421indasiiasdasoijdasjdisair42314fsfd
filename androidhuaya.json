@@ -21,6 +21,29 @@
         "time": "7 am a 7 pm",
         "title": "Radio Huaya"
     },
+        {
+        "streams": [
+            {
+                "playlist": ["https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/losautenticosmidiario.mp3.mp3",
+                            "https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/nuestraseparacionlosautenticos.mp3.mp3"],
+                "bitrate": 24,
+                "live": false,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/losautenticosmidiario.mp3.mp3",
+                            "https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/nuestraseparacionlosautenticos.mp3.mp3"],
+                "bitrate": 128,
+                "live": false,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Huapangos",
+        "logo": "https://a4-images.myspacecdn.com/images03/1/c4a7eba43e4849d0bf43b9421b30bbdd/300x300.jpg",
+        "time": "",
+        "title": "Los Autenticos de Hidalgo"
+    },
+    
     {
         "streams": [
             {
