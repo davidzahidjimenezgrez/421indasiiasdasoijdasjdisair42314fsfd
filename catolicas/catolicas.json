@@ -1,7 +1,13 @@
 {
     "station":
     [
-    
+     {
+     "name": "Radio Inmaculada",
+     "streamURL": "https://mi-20161230-140710-35.cdn.spreaker.com/live_6366822",
+     "imageURL": "http://www.radioinmaculadafm.org/RIP/Principal_files/logo%20cortado.jpg",
+     "desc": "Católica",
+     "longDesc": ""
+     },
      {
      "name": "Católica Radio",
      "streamURL": "http://stream.rarserver.net:8078/catolicapr",
