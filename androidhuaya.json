@@ -21,6 +21,29 @@
         "time": "7 am a 7 pm",
         "title": "Radio Huaya"
     },
+    
+        {
+        "streams": [
+            {
+                "playlist": ["http://listen.radionomy.com/radiohuayaalternativa"],
+                "bitrate": 24,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            },
+            {
+                "playlist": ["http://listen.radionomy.com/radiohuayaalternativa"],
+                "bitrate": 128,
+                "metaint": true,
+                "live": true,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "RADIO HUAYA",
+        "logo": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/images/huaya.jpg",
+        "time": "24 HORAS DE MUSICA CONTINUA",
+        "title": "Radio Huaya"
+    },
         {
         "streams": [
             {
