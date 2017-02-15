@@ -33,6 +33,7 @@
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/%20(7).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/%20(8).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/%20(9).mp3",
+                     "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/lafuerzadetuamor.mp3", 
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/%20(10).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(11).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(12).mp3",
@@ -200,6 +201,7 @@
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(174).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(175).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(176).mp3",
+                         "https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/losautenticosmidiario.mp3.mp3",
                            "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(177).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(178).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(179).mp3",
@@ -522,7 +524,8 @@
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(496).mp3",
                            "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(497).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(498).mp3",
-                         "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(499).mp3"
+                         "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(499).mp3",
+                          "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/deunranchoautenticos.mp3" 
                 ],
                 "bitrate": 24,
                 "metaint": true,
@@ -538,7 +541,7 @@
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/%20(9).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/%20(10).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(11).mp3",
-                         "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(12).mp3",
+                         "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/lafuerzadetuamor.mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(13).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(14).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(15).mp3",
@@ -739,6 +742,7 @@
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(210).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(211).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(212).mp3",
+                         "https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/losautenticosmidiario.mp3.mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(213).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(214).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(215).mp3",
@@ -1025,7 +1029,9 @@
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(496).mp3",
                            "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(497).mp3",
                          "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(498).mp3",
-                         "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(499).mp3"],
+                         "https://raw.githubusercontent.com/davidzahidjimenezgrez/songs/master/(499).mp3",
+                          "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/deunranchoautenticos.mp3"  
+                            ],
                 "bitrate": 128,
                 "metaint": true,
                 "live": false,
@@ -1034,7 +1040,7 @@
         ],
         "genre": "Cambia de Cancion",
         "logo": "http://fetamce.org.br/resistirelutar/wp-content/uploads/2017/01/thumb_music.png",
-        "time": "Version Beta",
+        "time": "Versión Beta",
         "title": "Radio Huaya"
     },
     
@@ -1061,68 +1067,7 @@
         "time": "24 horas",
         "title": "Radio Huaya"
     },
-        {
-        "streams": [
-            {
-                "playlist": ["https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/losautenticosmidiario.mp3.mp3",
-                            "https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/nuestraseparacionlosautenticos.mp3.mp3"],
-                "bitrate": 24,
-                "live": false,
-                "url_m3u": ""
-            },
-            {
-                "playlist": ["https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/losautenticosmidiario.mp3.mp3",
-                            "https://github.com/davidzahidjimenezgrez/songshidalgo/raw/master/nuestraseparacionlosautenticos.mp3.mp3"],
-                "bitrate": 128,
-                "live": false,
-                "url_m3u": ""
-            }
-        ],
-        "genre": "Huapangos",
-        "logo": "https://a4-images.myspacecdn.com/images03/1/c4a7eba43e4849d0bf43b9421b30bbdd/300x300.jpg",
-        "time": "",
-        "title": "Los Autenticos de Hidalgo"
-    },
-    
-    {
-        "streams": [
-            {
-                "playlist": ["https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/lafuerzadetuamor.mp3"],
-                "bitrate": 24,
-                "live": false,
-                "url_m3u": ""
-            },
-            {
-                "playlist": ["https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/lafuerzadetuamor.mp3"],
-                "bitrate": 128,
-                "live": false,
-                "url_m3u": ""
-            }
-        ],
-        "genre": "Huapangos",
-        "logo": "http://ecx.images-amazon.com/images/I/51Hf-THRXaL.jpg",
-        "time": "",
-        "title": "La Fuerza de tu Amor"
-    },
-    {
-        "streams": [
-            {
-                "playlist": ["https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/deunranchoautenticos.mp3"],
-                "bitrate": 24,
-                "live": false,
-                "url_m3u": ""
-            },
-            {
-                "playlist": ["https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/deunranchoautenticos.mp3"],
-                "bitrate": 128,
-                "live": false,
-                "url_m3u": ""
-            }
-        ],
-        "genre": "Huapangos",
-        "logo": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/images/autenticos.jpg",
-        "time": "",
-        "title": "De Un Rancho a Otro"
-    }
+       
+
   
 ]}
