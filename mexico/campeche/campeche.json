@@ -1,6 +1,14 @@
 {
     "station":
     [
+        
+     {
+     "name": "Euforia Radio",
+     "streamURL": "ttp://192.99.2.48:8368/",
+     "imageURL": "http://euforiaradio.com/images2/bannerentradaweb.jpg",
+     "desc": "Campeche",
+     "longDesc": "www.euforiaradio.com"
+     },
      {
      "name": "La Mejor 100.5 FM",
      "streamURL": "http://192.173.28.39/XHVEFM_SC",
