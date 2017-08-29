@@ -22,6 +22,13 @@
      "desc": "Tlaxcala",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Humantla",
      "streamURL": "http://hd.streamip.net:8200/",
@@ -41,6 +48,13 @@
      "streamURL": "http://174.122.121.106:8000/stereomax-mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tlaxcala/stereo-max-98-1-fm-tlaxcala.png",
      "desc": "Tlaxcala",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
