@@ -22,6 +22,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "LOS 40 PRINCIPALES 102.9 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xeyn.mp3",
@@ -41,6 +48,13 @@
      "streamURL": "http://173.193.205.96:9006/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/la-voz-del-pacifico-sur-102-3-fm-pochutla.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -64,6 +78,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "EXA 98.5 FM",
      "streamURL": "http://ororadio2.serverroom.us:4638/",
@@ -83,6 +104,13 @@
      "streamURL": "http://192.99.6.50:9984/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/radio-realidad-oaxaca.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -106,6 +134,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Guadalupe Radio",
      "streamURL": "http://radiohosting.com.mx:8676/",
@@ -125,6 +160,13 @@
      "streamURL": "http://s5.voscast.com:8142/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/los-40-principales-salina-cruz-97-1-fm.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -148,6 +190,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Zaachila",
      "streamURL": "http://72.29.81.205:8500/",
@@ -169,6 +218,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Jenpoj",
      "streamURL": "http://198.27.88.63:9992",
@@ -188,6 +244,13 @@
      "streamURL": "http://79.143.179.75:9946/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/tribuna-radio-huatulco.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      ]
