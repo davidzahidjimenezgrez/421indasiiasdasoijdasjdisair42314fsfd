@@ -6,147 +6,196 @@
      "name": "La Mejor FM",
      "streamURL": "http://tunein.gvstream.net:9232/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamejorfm.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "La Mexicana 91.3 FM",
      "streamURL": "http://tunein.gvstream.net:9040/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamexicana913.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Amor 92.5 FM",
      "streamURL": "http://192.173.28.58/XHSHFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor925.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "Stereo Rey",
      "streamURL": "http://8343.live.streamtheworld.com:3690/STEREOREY_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereorey.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Magia 101.1 FM",
      "streamURL": "http://201.159.48.107:88/broadwave.mp3?src=1&amp;kbps=56",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/magia101fm.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "790 AM BI",
      "streamURL": "http://201.159.48.107:88/broadwave.mp3?src=1&amp;kbps=56",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/790ambi.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "BI 88.7 FM",
      "streamURL": "http://201.159.48.107:88/broadwave.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/bi887fm.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "UVA 90.5 FM",
      "streamURL": "http://201.159.48.106:88/broadwave.mp3?src=3&amp;kbps=24",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/uva905.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Stereo Catolica",
      "streamURL": "http://stream1.estereocatolica.com:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereocatolicaaguascalientes.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "Nova Radio",
      "streamURL": "http://198.27.88.63:9990/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/novaradio.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "La Kaliente 102.9 FM",
      "streamURL": "http://zer.zuperdns.net:1021/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lakaliente1029.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "La SanMarquena",
      "streamURL": "http://zer.zuperdns.net:2001/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lasanmarquena.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "40 Principales 95.7 FM",
      "streamURL": "http://zer.zuperdns.net:9570/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/40principales957fm.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Amor 104.5 FM",
      "streamURL": "http://zer.zuperdns.net:1045/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor1045.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "La Ranchera 106.1 FM",
      "streamURL": "http://zer.zuperdns.net:1006/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/laranchera1061.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "La Poderosa 107.7 FM",
      "streamURL": "http://201.159.48.107:88/broadwave.mp3?src=2.&amp;kbps=24&amp;",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lapoderosa1077.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Aguante 103.7 FM Aguascalientes",
      "streamURL": "http://streaming.radionomy.com/HastaqueelcuerpoAguanteonline",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/aguante1037.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Mas Que Radio 107.3 FM",
      "streamURL": "http://50.22.218.197:8783/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/masqueradio1073.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "Radio Fe 98.3 FM",
      "streamURL": "http://184.107.179.162:3419/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radiofe983.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Suena Radio FM",
      "streamURL": "http://95.211.115.197:8129/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/suenaradio.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Fuente de Luz",
      "streamURL": "http://208.43.9.106:8015/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radioesfuentedeluz.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
     ]
