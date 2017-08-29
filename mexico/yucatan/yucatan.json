@@ -22,6 +22,13 @@
      "desc": "Yucatan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Candela 95.3 FM",
      "streamURL": "http://85.17.30.50:8036/",
@@ -41,6 +48,13 @@
      "streamURL": "http://208.80.54.148/XHMRA_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/yucatan/exa-99-3-fm-merida.png",
      "desc": "Yucatan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -64,6 +78,13 @@
      "desc": "Yucatan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Candela 96.3 FM",
      "streamURL": "http://85.17.30.50:8193/",
@@ -83,6 +104,13 @@
      "streamURL": "http://64.15.187.58:8000/merida1",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/yucatan/radio-formula-primera-cadena-650-am-y-94-5-fm-merida.png",
      "desc": "Yucatan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -106,6 +134,13 @@
      "desc": "Yucatan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Unica 106.7 FM",
      "streamURL": "http://204.45.15.50:2032/",
@@ -127,6 +162,13 @@
      "desc": "Yucatan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Amor 100.1 FM",
      "streamURL": "http://mediaservicios.com.mx:8046/",
@@ -146,6 +188,13 @@
      "streamURL": "http://listen.radionomy.com/LAMIXER",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/yucatan/radio-la-mixer.png",
      "desc": "Yucatan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      ]
