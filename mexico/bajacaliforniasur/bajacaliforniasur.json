@@ -22,6 +22,13 @@
      "desc": "Baja California Sur",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Cabo Mil 96.3 FM",
      "streamURL": "http://50.7.29.178:9976/",
@@ -41,6 +48,13 @@
      "streamURL": "http://148.231.3.56/mxl",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/uabc-radio-104-1-fm.png",
      "desc": "Baja California Sur",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
