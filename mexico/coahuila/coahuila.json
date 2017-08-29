@@ -22,6 +22,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "1250 AM",
      "streamURL": "http://stream.redcoahuila.net:8130/",
@@ -41,6 +48,13 @@
      "streamURL": "http://208.80.54.76/XHPE_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-mejor-97-1-fm-torreon.png",
      "desc": "Coahuila",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -64,6 +78,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Extasis Digital 1380 AM",
      "streamURL": "http://stream2.dyndns.org:8000/xers",
@@ -83,6 +104,13 @@
      "streamURL": "http://192.173.28.42/XHTRRFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-caliente-92-3-fm-torreon.png",
      "desc": "Coahuila",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -106,6 +134,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Milenio 99.3 FM",
      "streamURL": "http://208.80.54.45/XESACFM_SC",
@@ -125,6 +160,13 @@
      "streamURL": "http://192.173.28.58/XHCLOFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-caliente-107-1-fm-monclova.png",
      "desc": "Coahuila",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -148,6 +190,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Super Estelar 92.9",
      "streamURL": "http://208.80.54.26/XHCDUFM_SC",
@@ -168,7 +217,15 @@
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-furia-del-norte-104-1-fm-monclova.png",
      "desc": "Coahuila",
      "longDesc": ""
-     }, {
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
+      {
      "name": "La 96.7 FM",
      "streamURL": "http://208.80.54.77/XHIKFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/http://208.80.54.77/XHIKFM_SC.png",
@@ -187,6 +244,13 @@
      "streamURL": "http://208.43.9.106:8154/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-reina-100-9-fm.png",
      "desc": "Coahuila",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -209,7 +273,14 @@
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/super-estelar-107-9-fm.png",
      "desc": "Coahuila",
      "longDesc": ""
-     },     
+     },  
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },   
      {
      "name": "Radio Sensacion",
      "streamURL": "http://192.99.35.215:5025/xevd_remoto",
