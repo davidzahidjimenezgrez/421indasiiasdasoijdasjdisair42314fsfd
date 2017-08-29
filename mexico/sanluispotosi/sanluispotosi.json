@@ -22,6 +22,13 @@
      "desc": "San Luis Potosi",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Poder 105.7 FM",
      "streamURL": "http://38.96.148.212:8006/",
@@ -41,6 +48,13 @@
      "streamURL": "http://transmisiones.uaslp.mx:8000/radiofm.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sanluispotosi/radio-uaslp-88-5-fm-y-1190-am-san-luis-potosi.png",
      "desc": "San Luis Potosi",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -64,6 +78,13 @@
      "desc": "San Luis Potosi",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Stereo 1030 AM",
      "streamURL": "http://xeie.serverroom.us:9740/",
@@ -83,6 +104,13 @@
      "streamURL": "http://64.15.187.58:8000/slp",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sanluispotosi/radio-formula-90-1-fm-san-luis-potosi.png",
      "desc": "San Luis Potosi",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -106,6 +134,13 @@
      "desc": "San Luis Potosi",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Candela 94.1 FM",
      "streamURL": "http://204.45.15.50:2098/",
@@ -125,6 +160,13 @@
      "streamURL": "http://64.202.98.133:3070/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sanluispotosi/rio-digital-102-5-fm.png",
      "desc": "San Luis Potosi",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
