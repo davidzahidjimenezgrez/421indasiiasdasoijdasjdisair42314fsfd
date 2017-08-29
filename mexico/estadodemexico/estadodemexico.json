@@ -22,6 +22,13 @@
      "desc": "Estado de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Mezcalito",
      "streamURL": "http://listen.radionomy.com/radio-mezcalito",
@@ -41,6 +48,13 @@
      "streamURL": "http://69.31.54.143/XECH_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/estadodemexico/radio-capital-1040-am-toluca.png",
      "desc": "Estado de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -64,6 +78,13 @@
      "desc": "Estado de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Nueva Republica",
      "streamURL": "http://167.114.131.90:5200/",
@@ -83,6 +104,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xeqy.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/estadodemexico/la-bestia-grupera-1200-am-toluca.png",
      "desc": "Estado de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -106,6 +134,13 @@
      "desc": "Estado de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Panda Show Radio",
      "streamURL": "http://streaming.shoutcast.com/pandashowradio",
@@ -125,6 +160,13 @@
      "streamURL": "http://85.17.30.50:8100/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/estadodemexico/conexion-rock.png",
      "desc": "Estado de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -148,6 +190,13 @@
      "desc": "Estado de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Enigma",
      "streamURL": "http://streaming.radionomy.com/Radio--Enigma",
@@ -167,6 +216,13 @@
      "streamURL": "http://streaming.radionomy.com/Trova-Radio---El-sentimiento-hecho-musica",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/estadodemexico/trova-radio.png",
      "desc": "Estado de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      ]
