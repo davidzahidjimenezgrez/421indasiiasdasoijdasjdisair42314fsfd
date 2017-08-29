@@ -22,6 +22,13 @@
      "desc": "Queretaro",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "IMAGEN RADIO 94.7 FM",
      "streamURL": "http://208.80.54.96/XEDAFM_SC",
@@ -41,6 +48,13 @@
      "streamURL": "http://208.80.54.56/XHKHFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/queretaro/top-music-91-7-fm-queretaro.png",
      "desc": "Queretaro",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -64,6 +78,13 @@
      "desc": "Queretaro",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "EXA 99.1 FM",
      "streamURL": "http://192.99.2.48:8352/",
@@ -83,6 +104,13 @@
      "streamURL": "http://send.gvstream.net:8010/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/queretaro/radar-107-5-fm-queretaro.png",
      "desc": "Queretaro",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -106,6 +134,13 @@
      "desc": "Queretaro",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Queretaro Al Aire",
      "streamURL": "http://142.4.217.133:8960/",
@@ -125,6 +160,13 @@
      "streamURL": "http://iradio.qfm.com.mx:8013/stream",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/queretaro/qfm-104-3-fm.png",
      "desc": "Queretaro",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
