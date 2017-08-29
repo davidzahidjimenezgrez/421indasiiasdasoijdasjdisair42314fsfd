@@ -22,6 +22,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Mexicana 90.3 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhjpa.mp3",
@@ -41,6 +48,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhsw.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/la-mas-picuda-94-9-fm-cuernavaca.png",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -64,6 +78,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Formula Cuernavaca 106.9 FM",
      "streamURL": "http://64.15.187.58:8000/cuernavaca",
@@ -83,6 +104,13 @@
      "streamURL": "http://208.80.54.46/W_RADIO_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/w-radio-1190-am-cuernavaca.png",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -106,6 +134,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Chinelo",
      "streamURL": "http://108.163.177.42:2467/",
@@ -125,6 +160,13 @@
      "streamURL": "http://listen.radionomy.com/lamx98",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/la-mx-98.png",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -148,6 +190,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Explosiva Radio",
      "streamURL": "http://192.99.14.225:9958/",
@@ -169,6 +218,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Famident",
      "streamURL": "http://streaming.radionomy.com/Famident",
@@ -188,6 +244,13 @@
      "streamURL": "http://192.99.2.48:8334/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/morelos-fm.png",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
