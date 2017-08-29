@@ -22,6 +22,13 @@
      "desc": "Nuevo Leon",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Génesis 98.1 FM",
      "streamURL": "http://192.173.28.39/XHRLFM_SC",
@@ -41,6 +48,13 @@
      "streamURL": "http://208.80.54.27/XHAWFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nuevoleon/aw-inolvidable-101-3-fm-monterrey.png",
      "desc": "Nuevo Leon",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -64,6 +78,13 @@
      "desc": "Nuevo Leon",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Imagen 107.7 FM",
      "streamURL": "http://208.80.54.96/XEDAFM_SC",
@@ -83,6 +104,13 @@
      "streamURL": "http://208.80.54.56/RG690_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nuevoleon/rg-la-deportiva-690-am-monterrey.png",
      "desc": "Nuevo Leon",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -106,6 +134,13 @@
      "desc": "Nuevo Leon",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "CLASSIC 106.9 FM",
      "streamURL": "http://192.173.28.38/CLASSIC106_SC",
@@ -127,6 +162,13 @@
      "desc": "Nuevo Leon",
      "longDesc": "LA RANCHERA DE MONTERREY"
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "CONTACTO 1190 AM",
      "streamURL": "http://69.31.54.142/XECTAM_SC",
@@ -146,6 +188,13 @@
      "streamURL": "http://64.15.187.58:8000/mty1",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nuevoleon/radio-formula-1370-am-monterrey.png",
      "desc": "Nuevo Leon",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -169,6 +218,13 @@
      "desc": "Nuevo Leon",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Monterrey Tercera Cadena 1230 AM",
      "streamURL": "http://64.15.187.58:8000/mty3",
@@ -188,6 +244,13 @@
      "streamURL": "http://shoutcast.uplinkmx.com:8076/stream",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nuevoleon/tejanopower-radio.png",
      "desc": "Nuevo Leon",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      ]
