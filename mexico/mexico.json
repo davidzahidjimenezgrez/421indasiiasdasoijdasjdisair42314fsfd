@@ -5,147 +5,196 @@
      "name": "La Mejor FM",
      "streamURL": "http://tunein.gvstream.net:9232/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamejorfm.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "La Mexicana 91.3 FM",
      "streamURL": "http://tunein.gvstream.net:9040/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lamexicana913.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Amor 92.5 FM",
      "streamURL": "http://192.173.28.58/XHSHFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor925.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "Stereo Rey",
      "streamURL": "http://8343.live.streamtheworld.com:3690/STEREOREY_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereorey.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Magia 101.1 FM",
      "streamURL": "http://201.159.48.107:88/broadwave.mp3?src=1&amp;kbps=56",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/magia101fm.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "790 AM BI",
      "streamURL": "http://201.159.48.107:88/broadwave.mp3?src=1&amp;kbps=56",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/790ambi.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "BI 88.7 FM",
      "streamURL": "http://201.159.48.107:88/broadwave.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/bi887fm.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "UVA 90.5 FM",
      "streamURL": "http://201.159.48.106:88/broadwave.mp3?src=3&amp;kbps=24",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/uva905.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Stereo Catolica",
      "streamURL": "http://stream1.estereocatolica.com:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/stereocatolicaaguascalientes.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "Nova Radio",
      "streamURL": "http://198.27.88.63:9990/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/novaradio.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "La Kaliente 102.9 FM",
      "streamURL": "http://zer.zuperdns.net:1021/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lakaliente1029.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "La SanMarquena",
      "streamURL": "http://zer.zuperdns.net:2001/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lasanmarquena.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "40 Principales 95.7 FM",
      "streamURL": "http://zer.zuperdns.net:9570/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/40principales957fm.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Amor 104.5 FM",
      "streamURL": "http://zer.zuperdns.net:1045/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/amor1045.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "La Ranchera 106.1 FM",
      "streamURL": "http://zer.zuperdns.net:1006/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/laranchera1061.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "La Poderosa 107.7 FM",
      "streamURL": "http://201.159.48.107:88/broadwave.mp3?src=2.&amp;kbps=24&amp;",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/lapoderosa1077.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Aguante 103.7 FM Aguascalientes",
      "streamURL": "http://streaming.radionomy.com/HastaqueelcuerpoAguanteonline",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/aguante1037.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Mas Que Radio 107.3 FM",
      "streamURL": "http://50.22.218.197:8783/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/masqueradio1073.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
      "name": "Radio Fe 98.3 FM",
      "streamURL": "http://184.107.179.162:3419/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radiofe983.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Suena Radio FM",
      "streamURL": "http://95.211.115.197:8129/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/suenaradio.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
      "longDesc": ""
      },
      {
      "name": "Fuente de Luz",
      "streamURL": "http://208.43.9.106:8015/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/aguascalientes/radioesfuentedeluz.png",
-     "desc": "Aguscalientes",
+     "desc": "Aguascalientes",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
       {
@@ -169,6 +218,13 @@
      "desc": "Baja California",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "40 Pricipales 101.1",
      "streamURL": "http://stream2.dyndns.org:8000/xhat.mp3",
@@ -188,6 +244,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhsu.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-dinamic-105-9-fm-y-790-am-mexicali.png",
      "desc": "Baja California",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -211,6 +274,13 @@
      "desc": "Baja California",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Siglo XXI 1050 AM",
      "streamURL": "http://stream2.dyndns.org:8000/xed.mp3",
@@ -230,6 +300,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xecl.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/la-rocola-990-am-mexicali.png",
      "desc": "Baja California",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -253,6 +330,13 @@
      "desc": "Baja California",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "95.3 FM",
      "streamURL": "http://192.173.28.34/LACALIENTE_SC",
@@ -272,6 +356,13 @@
      "streamURL": "http://192.99.2.31:8020/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/conexion-fm-tijuana.png",
      "desc": "Baja California",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
        {
@@ -295,6 +386,13 @@
      "desc": "Baja California",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Vida 1420 AM",
      "streamURL": "http://s1.radiorama.com.mx:7564/",
@@ -314,6 +412,13 @@
      "streamURL": "http://208.80.54.45/XHPFFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/uni-radio-1470-am-tijuana.png",
      "desc": "Baja California",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -337,6 +442,13 @@
      "desc": "Baja California",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Mejor 90.7 FM",
      "streamURL": "http://192.173.28.36/XHJCFM_SC",
@@ -356,6 +468,13 @@
      "streamURL": "http://162.144.96.212:8000/morefm1067",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/more-fm-106-7-mexicali.png",
      "desc": "Baja California",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
        {
@@ -379,6 +498,13 @@
      "desc": "Baja California",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Cadena 1190 AM",
      "streamURL": "http://162.144.96.212:8000/cadena1190",
@@ -398,6 +524,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhepf.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacalifornia/stereo-vida-89-1-fm-ensenada.png",
      "desc": "Baja California",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -421,6 +554,13 @@
      "desc": "Campeche",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Voces 920 AM",
      "streamURL": "http://198.245.51.113:8150",
@@ -440,6 +580,13 @@
      "streamURL": "http://mediaservicios.com.mx:8040/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/kiss-101-9-fm-campeche.png",
      "desc": "Campeche",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -463,6 +610,13 @@
      "desc": "Campeche",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Ke Buena 102.7 FM",
      "streamURL": "http://208.80.54.30/XHMI_SC",
@@ -482,6 +636,13 @@
      "streamURL": "http://www.tuasesorweb.com:8016/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/campeche/maxima-98-9-fm-ciudad-del-carmen.png",
      "desc": "Campeche",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -505,6 +666,13 @@
      "desc": "Campeche",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "40 Principales 100.5 FM",
      "streamURL": "http://69.31.54.143/LOS40_MEXICO_SC",
@@ -526,6 +694,13 @@
      "desc": "Baja California Sur",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "990 AM",
      "streamURL": "http://www.kvoz.com:8080/xehz",
@@ -545,6 +720,13 @@
      "streamURL": "http://192.187.112.50:8048/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/bajacaliforniasur/radium-la-paz.png",
      "desc": "Baja California Sur",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -569,6 +751,13 @@
      "longDesc": ""
      },
       {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
+      {
      "name": "La Ke Buena 92.9 FM",
      "streamURL": "http://208.80.54.66/KEBUENA_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/ke-buena-92-9-fm-ciudad-de-mexico.png",
@@ -587,6 +776,13 @@
      "streamURL": "http://69.31.54.140/BESAME_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/xeq-radio-940-am-ciudad-de-mexico.png",
      "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
     {
@@ -610,6 +806,13 @@
      "desc": "Ciudad de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio UNAM 96.1 FM",
      "streamURL": "http://server1.usatelk.com:27547/",
@@ -629,6 +832,13 @@
      "streamURL": "http://208.80.54.26/XHMFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/noticias-88-9-fm-ciudad-de-mexico.png",
      "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
     {
@@ -652,6 +862,13 @@
      "desc": "Ciudad de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Beat 100.9 FM",
      "streamURL": "http://208.80.54.28/XHSONFM_SC",
@@ -671,6 +888,13 @@
      "streamURL": "http://69.31.54.143/XEITE_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/cdmx/radio-capital-830-am-ciudad-de-mexico.png",
      "desc": "Ciudad de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
     {
@@ -694,6 +918,13 @@
      "desc": "Ciudad de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
  {
      "name": "Extremo Grupero 89.9 FM",
      "streamURL": "http://216.55.186.61:8039/",
@@ -713,6 +944,13 @@
      "streamURL": "http://216.55.186.61:8067/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/extremo-90-7-fm-tapachula.png",
      "desc": "Chiapas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -736,6 +974,13 @@
      "desc": "Chiapas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Mejor 101.7 FM",
      "streamURL": "http://208.80.54.149/XHRO_SC",
@@ -755,6 +1000,13 @@
      "streamURL": "http://66.240.202.106:9080/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/exa-98-5-fm-tuxtla-gutierrez.png",
      "desc": "Chiapas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -778,6 +1030,13 @@
      "desc": "Chiapas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Extremo 90.3 FM",
      "streamURL": "http://216.55.186.61:8007/",
@@ -797,6 +1056,13 @@
      "streamURL": "http://216.55.186.61:8063/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/40-principales-99-5-fm-tapachula.png",
      "desc": "Chiapas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -820,6 +1086,13 @@
      "desc": "Chiapas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "EXTREMO 95.1 FM",
      "streamURL": "http://216.55.186.61:8055/",
@@ -839,6 +1112,13 @@
      "streamURL": "http://www.tuasesorweb.com:8018/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chiapas/maxima-96-9-fm.png",
      "desc": "Chiapas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -862,6 +1142,13 @@
      "desc": "Chihuahua",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Poderosa 89.3 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhfa",
@@ -881,6 +1168,13 @@
      "streamURL": "http://212.83.172.242:8012/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-ranchera-de-cuauhtemoc-89-7-fm.png",
      "desc": "Chihuahua",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -904,6 +1198,13 @@
      "desc": "Chihuahua",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Mexicana 94.9 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhsb",
@@ -923,6 +1224,13 @@
      "streamURL": "http://radio.promosat.com:8122/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/fiesta-mexicana-94-5-fm-delicias.png",
      "desc": "Chihuahua",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -946,6 +1254,13 @@
      "desc": "Chihuahua",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Que Buena 99.5",
      "streamURL": "http://198.50.113.170:9272/",
@@ -965,6 +1280,13 @@
      "streamURL": "http://192.173.28.42/XHCHHFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-parral-101-7-fm-hidalgo-del-parral.png",
      "desc": "Chihuahua",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -988,6 +1310,13 @@
      "desc": "Chihuahua",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Estereo Romance 92.9 FM",
      "streamURL": "http://212.83.172.242:8030/",
@@ -1007,6 +1336,13 @@
      "streamURL": "http://208.80.54.67/XHAHCFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-caliente-90-9-fm-chihuahua.png",
      "desc": "Chihuahua",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1030,6 +1366,13 @@
      "desc": "Chihuahua",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Tremenda 96.9 FM",
      "streamURL": "http://200.66.39.11:8040/xstream",
@@ -1049,6 +1392,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xefi",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/radio-mexicana-580-am-chihuahua.png",
      "desc": "Chihuahua",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1072,6 +1422,13 @@
      "desc": "Chihuahua",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "XEJUA 640 AM",
      "streamURL": "http://212.83.172.242:8066/",
@@ -1091,6 +1448,13 @@
      "streamURL": "http://198.50.113.170:9270/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/chihuahua/la-sabrosita-104-9-fm-nuevo-casas-grandes.png",
      "desc": "Chihuahua",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
 {
@@ -1114,6 +1478,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "1250 AM",
      "streamURL": "http://stream.redcoahuila.net:8130/",
@@ -1133,6 +1504,13 @@
      "streamURL": "http://208.80.54.76/XHPE_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-mejor-97-1-fm-torreon.png",
      "desc": "Coahuila",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1156,6 +1534,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Extasis Digital 1380 AM",
      "streamURL": "http://stream2.dyndns.org:8000/xers",
@@ -1175,6 +1560,13 @@
      "streamURL": "http://192.173.28.42/XHTRRFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-caliente-92-3-fm-torreon.png",
      "desc": "Coahuila",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1198,6 +1590,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Milenio 99.3 FM",
      "streamURL": "http://208.80.54.45/XESACFM_SC",
@@ -1217,6 +1616,13 @@
      "streamURL": "http://192.173.28.58/XHCLOFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-caliente-107-1-fm-monclova.png",
      "desc": "Coahuila",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1240,6 +1646,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Super Estelar 92.9",
      "streamURL": "http://208.80.54.26/XHCDUFM_SC",
@@ -1260,7 +1673,15 @@
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-furia-del-norte-104-1-fm-monclova.png",
      "desc": "Coahuila",
      "longDesc": ""
-     }, {
+     }, 
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
      "name": "La 96.7 FM",
      "streamURL": "http://208.80.54.77/XHIKFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/http://208.80.54.77/XHIKFM_SC.png",
@@ -1279,6 +1700,13 @@
      "streamURL": "http://208.43.9.106:8154/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/coahuila/la-reina-100-9-fm.png",
      "desc": "Coahuila",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1302,6 +1730,13 @@
      "desc": "Coahuila",
      "longDesc": ""
      },     
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Sensacion",
      "streamURL": "http://192.99.35.215:5025/xevd_remoto",
@@ -1321,6 +1756,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhty.mp3/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/colima/los-40-principales-91-3-fm-y-1390-am-tecoman.png",
      "desc": "Colima",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1344,6 +1786,13 @@
      "desc": "Colima",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio San Nicolas de Bari",
      "streamURL": "http://server15.ahserver.info:8006/",
@@ -1363,6 +1812,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhwx.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/kebuena981.png",
      "desc": "Durango",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1386,6 +1842,13 @@
      "desc": "Durango",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio EST 1",
      "streamURL": "http://200.66.39.11:8010/xstream",
@@ -1405,6 +1868,13 @@
      "streamURL": "http://192.99.14.225:9700/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/durango/popfm957.png",
      "desc": "Durango",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1428,6 +1898,13 @@
      "desc": "Durango",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
  {
      "name": "NEUROTIKA 102.1 FM",
      "streamURL": "http://104.130.146.201:8000/xhtom",
@@ -1447,6 +1924,13 @@
      "streamURL": "http://issultra.endavomedia.com:8000/ultratulancingo.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/estadodemexico/ultra-101-3-fm-toluca.png",
      "desc": "Estado de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1470,6 +1954,13 @@
      "desc": "Estado de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Bengala 93.3 FM",
      "streamURL": "http://104.130.146.201:8000/xhedt",
@@ -1489,6 +1980,13 @@
      "streamURL": "http://tuasesorweb.com:8048/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/estadodemexico/radio-cristo-en-linea-valle-de-chalco.png",
      "desc": "Estado de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1512,6 +2010,13 @@
      "desc": "Estado de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Trece 1290 AM",
      "streamURL": "http://tuasesorweb.com:8050/",
@@ -1531,6 +2036,13 @@
      "streamURL": "http://198.50.118.50:8034/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/estadodemexico/frecuencia-deportiva-1370-am.png",
      "desc": "Estado de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1554,6 +2066,13 @@
      "desc": "Estado de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio SEPA",
      "streamURL": "http://stream1.servercristianonetwork.com:8002/",
@@ -1573,6 +2092,13 @@
      "streamURL": "http://streaming.radionomy.com/Oldies-Mexico",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/estadodemexico/radio-oldies-mexico.png",
      "desc": "Estado de México",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1596,6 +2122,13 @@
      "desc": "Estado de México",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
  {
      "name": "Extasis Digital 101.5 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhvlo.mp3",
@@ -1615,6 +2148,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xeirg.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guanajuato/la-campirana-1470-am-y-102-7-fm-irapuato.png",
      "desc": "Guanajuato",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1638,6 +2178,13 @@
      "desc": "Guanajuato",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Mejor FM 99.9",
      "streamURL": "http://192.173.28.38/XHSOFM_SC",
@@ -1657,6 +2204,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhy.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guanajuato/",
      "desc": "Guanajuato",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1680,6 +2234,13 @@
      "desc": "Guanajuato",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "RMX 105.9 FM",
      "streamURL": "http://radio.alphamx.net:8130/",
@@ -1699,6 +2260,13 @@
      "streamURL": "http://xesq22.serverroom.us:7396/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guanajuato/radio-san-miguel-1280-am.png",
      "desc": "Guanajuato",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1722,6 +2290,13 @@
      "desc": "Guanajuato",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Sensación",
      "streamURL": "http://192.99.14.225:9834/",
@@ -1741,6 +2316,13 @@
      "streamURL": "http://208.80.54.45/XHMDFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guanajuato/",
      "desc": "Guanajuato",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1764,6 +2346,13 @@
      "desc": "Guanajuato",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Universidad",
      "streamURL": "http://148.214.155.118:8000/radiouniversidadugto1",
@@ -1783,6 +2372,13 @@
      "streamURL": "http://208.80.54.37/XHPQFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guanajuato/digital-97-5-fm-leon.png",
      "desc": "Guanajuato",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1806,6 +2402,13 @@
      "desc": "Guerrero",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "EXA 92.9 FM",
      "streamURL": "http://209.95.43.30:8037/",
@@ -1825,6 +2428,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhci.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/romantica-104-7-fm-y-1340-am-acapulco.png",
      "desc": "Guerrero",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1848,6 +2458,13 @@
      "desc": "Guerrero",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Sin Fronteras",
      "streamURL": "http://s7.voscast.com:7014/",
@@ -1867,6 +2484,13 @@
      "streamURL": "http://208.80.54.36/LOS40_MEXICO_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/40-principales-880-am-iguala.png",
      "desc": "Guerrero",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1890,6 +2514,13 @@
      "desc": "Guerrero",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "EXA 99.3",
      "streamURL": "http://69.31.54.136/XHNQ_SC",
@@ -1909,6 +2540,13 @@
      "streamURL": "http://www.acapulcoradio.com/loops/01.ogg",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/radio-acapulco.png",
      "desc": "Guerrero",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1932,6 +2570,13 @@
      "desc": "Guerrero",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Comadre 101.5 FM",
      "streamURL": "http://208.80.54.96/XHBBFM_SC",
@@ -1951,6 +2596,13 @@
      "streamURL": "http://209.95.43.30:8021/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/abc-radio-96-1-fm.png",
      "desc": "Guerrero",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -1974,6 +2626,13 @@
      "desc": "Guerrero",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Formula Acapulco",
      "streamURL": "http://64.15.187.58:8000/acapulco1",
@@ -1993,6 +2652,13 @@
      "streamURL": "http://192.173.28.36/XHBH_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/guerrero/la-mejor-98-5-fm.png",
      "desc": "Guerrero",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
    {
@@ -2016,6 +2682,13 @@
      "desc": "Hidalgo",
      "longDesc": "Radio y Televisión"
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La KeBuena 106.7 FM",
      "streamURL": "http://209.133.210.123:8027",
@@ -2036,6 +2709,13 @@
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/nqradio.png",
      "desc": "Hidalgo",
      "longDesc": "NQ Radio"
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
      },
      {
      "name": "Radio Valle Tulancingo",
@@ -2058,6 +2738,13 @@
      "desc": "Hidalgo",
      "longDesc": "Pachuca Vip Radio"
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Miled Radio",
      "streamURL": "http://192.99.34.205:8612/stream",
@@ -2079,6 +2766,13 @@
      "desc": "Polux Radio",
      "longDesc": "Polux Radio"
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Abstracto MX",
      "streamURL": "http://64.37.55.229:8200/",
@@ -2098,6 +2792,13 @@
      "streamURL": "http://206.190.133.196:7097/stream",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/radio-vital-1310-am-guadalajara.png",
      "desc": "Jalisco",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2121,6 +2822,13 @@
      "desc": "Jalisco",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Ranchito",
      "streamURL": "http://198.50.118.50:8050/",
@@ -2140,6 +2848,13 @@
      "streamURL": "http://50.7.98.234:8040/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/c7-radio-91-9-fm-cd-guzman.png",
      "desc": "Jalisco",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2163,6 +2878,13 @@
      "desc": "Jalisco",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Mejor 590 AM",
      "streamURL": "http://50.7.29.178:8779/",
@@ -2182,6 +2904,13 @@
      "streamURL": "http://208.80.54.46/LOS40_MEXICO_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/los-40-principales-102-7-fm-guadalajara.png",
      "desc": "Jalisco",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2205,6 +2934,13 @@
      "desc": "Jalisco",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "MAXIMA 106.7 FM",
      "streamURL": "http://184.107.217.186:8028/",
@@ -2224,6 +2960,13 @@
      "streamURL": "http://208.80.54.39/XEDAFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/imagen-93-9-fm-guadalajara.png",
      "desc": "Jalisco",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2247,6 +2990,13 @@
      "desc": "Jalisco",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Formula Melodica 97.9 FM",
      "streamURL": "http://206.190.133.196:7085/stream",
@@ -2266,6 +3016,13 @@
      "streamURL": "http://148.202.165.1:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/red-radio-universidad-guadalaraja.png",
      "desc": "Jalisco",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2289,6 +3046,13 @@
      "desc": "Jalisco",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "DK 1250 AM",
      "streamURL": "http://198.50.118.50:8026/",
@@ -2308,6 +3072,13 @@
      "streamURL": "http://208.80.54.126/XHGDAFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/jalisco/milenio-radio-89-1-fm.png",
      "desc": "Jalisco",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
  {
@@ -2331,6 +3102,13 @@
      "desc": "Michoacan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Zamorana 103.9 FM",
      "streamURL": "http://transmision.webos.com.mx:8360/",
@@ -2350,6 +3128,13 @@
      "streamURL": "http://omegaingenieria.com:8036/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/michoacan/la-poderosa-1050-am-y-89-7-fm-uruapan.png",
      "desc": "Michoacan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2373,6 +3158,13 @@
      "desc": "Michoacan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "KISS 89.3 FM",
      "streamURL": "http://64.150.176.192:8231/",
@@ -2392,6 +3184,13 @@
      "streamURL": "http://72.29.81.205:8313/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/michoacan/la-pantera-1290-am-jiquilpan.png",
      "desc": "Michoacan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2415,6 +3214,13 @@
      "desc": "Michoacan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Comunitaria Erandi 107.9 FM",
      "streamURL": "http://192.99.0.170:5088/",
@@ -2434,6 +3240,13 @@
      "streamURL": "http://omegaingenieria.com:8034/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/michoacan/maxima-100-9-fm-morelia.png",
      "desc": "Michoacan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2457,6 +3270,13 @@
      "desc": "Michoacan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Estereo Vida 93.7 FM",
      "streamURL": "http://omegaingenieria.com:8018/",
@@ -2476,6 +3296,13 @@
      "streamURL": "http://204.45.15.50:2086/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/michoacan/radio-candela-90-1-fm-morelia.png",
      "desc": "Michoacan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2499,6 +3326,13 @@
      "desc": "Michoacan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Pia",
      "streamURL": "http://198.178.123.5:7998/",
@@ -2518,6 +3352,13 @@
      "streamURL": "http://184.107.179.162:9634/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/michoacan/candela-1340-am.png",
      "desc": "Michoacan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2541,6 +3382,13 @@
      "desc": "Michoacan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Nicolaita 1370 AM",
      "streamURL": "http://148.216.0.21:8000/rnic",
@@ -2560,6 +3408,13 @@
      "streamURL": "http://192.173.28.40/XHVZ_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/la-mejor-97-3-fm-cuernavaca.png",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2583,6 +3438,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Picuda 94.9 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhsw.mp3",
@@ -2602,6 +3464,13 @@
      "streamURL": "http://108.163.177.42:2433/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/clubinsomnio.png",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2625,6 +3494,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "W Radio",
      "streamURL": "http://208.80.54.46/W_RADIO_SC",
@@ -2644,6 +3520,13 @@
      "streamURL": "http://69.31.54.143/XHCMR_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/capital-fm-105-3-fm.png",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2667,6 +3550,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La MX 98",
      "streamURL": "http://listen.radionomy.com/lamx98",
@@ -2686,6 +3576,13 @@
      "streamURL": "",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2709,6 +3606,13 @@
      "desc": "Morelos",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radioneta",
      "streamURL": "http://198.50.155.112:8100/",
@@ -2728,6 +3632,13 @@
      "streamURL": "http://192.99.6.50:9900/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/morelos/olaque-radio.png",
      "desc": "Morelos",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2751,6 +3662,13 @@
      "desc": "Nayarit",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Stereo Vida 95.3 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhpy.mp3",
@@ -2770,6 +3688,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhpna",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nayarit/la-nayarita-101-9-fm-y-890-am-tepic.png",
      "desc": "Nayarit",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2793,6 +3718,13 @@
      "desc": "Nayarit",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Caliente 107.3 FM",
      "streamURL": "http://208.80.52.107/XHXTFM_SC",
@@ -2812,6 +3744,13 @@
      "streamURL": "http://148.220.4.15:8000/listen.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nayarit/radio-universidad-autonoma-101-1-fm-nayarit.png",
      "desc": "Nayarit",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2835,6 +3774,13 @@
      "desc": "Nayarit",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "FJ RADIO",
      "streamURL": "http://176.31.120.92:6782/",
@@ -2854,6 +3800,13 @@
      "streamURL": "http://192.173.28.42/XETFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nuevoleon/la-caliente-94-1-fm-monterrey.png",
      "desc": "Nuevo Leon",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2877,6 +3830,13 @@
      "desc": "Nuevo Leon",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "AW 101.3 FM",
      "streamURL": "http://208.80.54.27/XHAWFM_SC",
@@ -2896,6 +3856,13 @@
      "streamURL": "http://208.80.54.67/XHPAGFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nuevoleon/la-mas-buena-105-3-fm-monterrey.png",
      "desc": "Nuevo Leon",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2919,6 +3886,13 @@
      "desc": "Nuevo Leon",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "RG 690 AM LA DEPORTIVA",
      "streamURL": "http://208.80.54.56/RG690_SC",
@@ -2938,6 +3912,13 @@
      "streamURL": "http://208.80.54.27/XETAM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nuevoleon/la-t-grande-990-am-monterrey.png",
      "desc": "Nuevo Leon",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -2961,6 +3942,13 @@
      "desc": "Nuevo Leon",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "XEG 1050 AM",
      "streamURL": "http://208.80.54.67/XEGAM_SC",
@@ -2982,6 +3970,13 @@
      "desc": "Nuevo Leon",
      "longDesc": "Red Católica en Monterrey"
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Formula Monterrey",
      "streamURL": "http://64.15.187.58:8000/mty1",
@@ -3001,6 +3996,13 @@
      "streamURL": "http://198.50.113.170:9228/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/nuevoleon/la-nueva-radio-1510-am-monterrey.png",
      "desc": "Nuevo Leon",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3024,6 +4026,13 @@
      "desc": "Nuevo Leon",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Tejano Power Radio TPR",
      "streamURL": "http://shoutcast.uplinkmx.com:8076/stream",
@@ -3043,6 +4052,13 @@
      "streamURL": "http://192.173.28.40/XHEXA_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/exa-96-9-fm-tuxtepec.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3066,6 +4082,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Voz del Pacifico Sur",
      "streamURL": "http://173.193.205.96:9006/",
@@ -3085,6 +4108,13 @@
      "streamURL": "http://ororadio.serverroom.us:9142/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/la-mejor-101-7-fm-oaxaca.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3108,6 +4138,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Re@lidad Oaxaca",
      "streamURL": "http://192.99.6.50:9984/",
@@ -3127,6 +4164,13 @@
      "streamURL": "http://74.86.0.227:9994/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/cortv-fm-96-9-puerto-escondido.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3150,6 +4194,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "40 PRINCIPALES Salina Cruz",
      "streamURL": "http://s5.voscast.com:8142/",
@@ -3169,6 +4220,13 @@
      "streamURL": "http://69.175.103.235:8200/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/radio-blasenita.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3192,6 +4250,13 @@
      "desc": "Oaxaca",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "San Blas Atempa",
      "streamURL": "http://65.60.19.43:8370/",
@@ -3211,6 +4276,13 @@
      "streamURL": "http://72.249.55.100:9954/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/oaxaca/megaradioexpress.png",
      "desc": "Oaxaca",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3234,6 +4306,13 @@
      "desc": "Puebla",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Oro 94.9 FM",
      "streamURL": "http://208.80.54.126/XHRCFM_SC",
@@ -3253,6 +4332,13 @@
      "streamURL": "http://148.228.154.24:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-buap-96-9-fm-puebla.png",
      "desc": "Puebla",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3276,6 +4362,13 @@
      "desc": "Puebla",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "HR 1090 AM",
      "streamURL": "http://174.122.121.106:8000/hr-mp3",
@@ -3295,6 +4388,13 @@
      "streamURL": "http://208.80.54.29/XEDAFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/imagen-radio-105-1-fm-puebla.png",
      "desc": "Puebla",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3318,6 +4418,13 @@
      "desc": "Puebla",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Mexicana 91.1 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhfs.mp3",
@@ -3337,6 +4444,13 @@
      "streamURL": "http://giss.tv:8000/teziutlanfm.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-teziutlan-90-9-fm.png",
      "desc": "Puebla",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3360,6 +4474,13 @@
      "desc": "Puebla",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Libres 95.9 FM",
      "streamURL": "http://giss.tv:8001/libresfm.mp3",
@@ -3379,6 +4500,13 @@
      "streamURL": "http://198.50.118.50:8084/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/radio-oro-1170-am-puebla.png",
      "desc": "Puebla",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3402,6 +4530,13 @@
      "desc": "Puebla",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Argos Cursa",
      "streamURL": "http://72.29.92.202:7080/",
@@ -3421,6 +4556,13 @@
      "streamURL": "http://shoutcast.starhost.com.mx:8036/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/puebla/sinergia-radio.png",
      "desc": "Puebla",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3444,6 +4586,13 @@
      "desc": "Queretaro",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "91DAT 90.9 FM",
      "streamURL": "http://192.173.28.34/XHQRTFM_SC",
@@ -3463,6 +4612,13 @@
      "streamURL": "http://208.80.54.96/XEDAFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/queretaro/imagen-94-7-fm-queretaro.png",
      "desc": "Queretaro",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3486,6 +4642,13 @@
      "desc": "Queretaro",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "MIA 93.9 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhhy.mp3",
@@ -3507,6 +4670,13 @@
      "desc": "Queretaro",
      "longDesc": "San Juan del Rio"
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "RMX 94.7 FM",
      "streamURL": "http://radio.alphamx.net:8070/",
@@ -3526,6 +4696,13 @@
      "streamURL": "http://148.220.4.15:8000/listen.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/queretaro/radio-universidad-autonoma-89-5-fm-queretaro.png",
      "desc": "Queretaro",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3549,6 +4726,13 @@
      "desc": "Queretaro",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Corazón de Radio",
      "streamURL": "http://85.17.30.50:8178",
@@ -3568,6 +4752,13 @@
      "streamURL": "http://208.80.54.58/XHQTOFM_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/queretaro/mix-106-5-fm.png",
      "desc": "Queretaro",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
    {
@@ -3591,6 +4782,13 @@
      "desc": "Quintana Roo",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "97.7 Chetumal",
      "streamURL": "http://chetumal.cozumelnetworks.com:8002/",
@@ -3610,6 +4808,13 @@
      "streamURL": "http://208.43.9.106:8136/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/quintanaroo/radio-chetumal-100-9-fm.png",
      "desc": "Quintana Roo",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3633,6 +4838,13 @@
      "desc": "Quintana Roo",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Rock La Playa Cancun",
      "streamURL": "http://204.12.193.98:8117/",
@@ -3652,6 +4864,13 @@
      "streamURL": "http://69.31.54.143/XHLAYA_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/quintanaroo/pirata-fm-99-3-cancun.png",
      "desc": "Quintana Roo",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3675,6 +4894,13 @@
      "desc": "Quintana Roo",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "RMX",
      "streamURL": "http://radio.alphamx.net:8162/",
@@ -3694,6 +4920,13 @@
      "streamURL": "http://iradio.qfm.com.mx:8013/stream",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/quintanaroo/qfm-104-3.png",
      "desc": "Quintana Roo",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3717,6 +4950,13 @@
      "desc": "Quintana Roo",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Energy FM",
      "streamURL": "http://184.154.45.106:8096/",
@@ -3736,6 +4976,13 @@
      "streamURL": "http://stream.radio88.fm:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/quintanaroo/radio-88-punto-fm.png",
      "desc": "Quintana Roo",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3759,6 +5006,13 @@
      "desc": "San Luis Potosi",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Amor 95.3 FM",
      "streamURL": "http://208.80.54.39/XHSHFM_SC",
@@ -3778,6 +5032,13 @@
      "streamURL": "http://38.96.148.212:8006/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sanluispotosi/poder-105-7-fm.png",
      "desc": "San Luis Potosi",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3801,6 +5062,13 @@
      "desc": "San Luis Potosi",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "RADIO IMAGEN 103.1 FM",
      "streamURL": "http://208.80.54.29/XEDAFM_SC",
@@ -3820,6 +5088,13 @@
      "streamURL": "http://xeie.serverroom.us:9740/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sanluispotosi/stereo-1030-am-y-106-3-fm-matehuala.png",
      "desc": "San Luis Potosi",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3843,6 +5118,13 @@
      "desc": "San Luis Potosi",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio Reyna 97.3 FM",
      "streamURL": "http://198.15.77.50:9364/",
@@ -3862,6 +5144,13 @@
      "streamURL": "http://204.45.15.50:2098/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sanluispotosi/candela-94-1-fm-san-luis-potosi.png",
      "desc": "San Luis Potosi",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3885,6 +5174,13 @@
      "desc": "San Luis Potosi",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Enlace Radio",
      "streamURL": "http://miradio.digitalradio.mx:9716/",
@@ -3904,6 +5200,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xecsi.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sinaloa/extasis-digital-89-5-fm-y-750-am-culiacan.png",
      "desc": "Sinaloa",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3927,6 +5230,13 @@
      "desc": "Sinaloa",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "LOS 40 PRINCIPALES 95.3 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhin.mp3",
@@ -3946,6 +5256,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhvu.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sinaloa/extasis-digital-97-1-fm-mazatlan.png",
      "desc": "Sinaloa",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -3969,6 +5286,13 @@
      "desc": "Sinaloa",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La GS 106.1 FM GUASAVE",
      "streamURL": "http://187.191.4.146:8004/gs",
@@ -3988,6 +5312,13 @@
      "streamURL": "http://184.107.217.186:1062/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sinaloa/exa-98-9-fm-los-mochis.png",
      "desc": "Sinaloa",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4011,6 +5342,13 @@
      "desc": "Sinaloa",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Ke Buena 97.9 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhmms.mp3",
@@ -4030,6 +5368,13 @@
      "streamURL": "http://184.107.217.186:1031/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sinaloa/stereo-uno-101-3-fm-los-mochis.png",
      "desc": "Sinaloa",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4053,6 +5398,13 @@
      "desc": "Sinaloa",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Nueva Nueva Ranchera",
      "streamURL": "http://tunein.gvstream.net:9012/",
@@ -4072,6 +5424,13 @@
      "streamURL": "http://184.107.217.186:1297/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sinaloa/maxima-98-1-fm-guasave.png",
      "desc": "Sinaloa",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4095,6 +5454,13 @@
      "desc": "Sinaloa",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "LA COMADRE 98.5 FM",
      "streamURL": "http://192.173.28.38/XHCLIFM_SC",
@@ -4114,6 +5480,13 @@
      "streamURL": "http://64.15.187.58:8000/culiacan",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sinaloa/radio-formula-culiacan-1230-am.png",
      "desc": "Sinaloa",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4137,6 +5510,13 @@
      "desc": "Sonora",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Fiesta Mexicana 90.7 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhldc.mp3",
@@ -4156,6 +5536,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhita.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/la-tremenda-96-5-fm-puerto-penasco.png",
      "desc": "Sonora",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4179,6 +5566,13 @@
      "desc": "Sonora",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Stereo 100.3 FM",
      "streamURL": "http://204.45.15.50:2064/",
@@ -4198,6 +5592,13 @@
      "streamURL": "http://148.225.54.10/broadwavehigh.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/radio-universidad-107-5-fm-hermosillo.png",
      "desc": "Sonora",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4221,6 +5622,13 @@
      "desc": "Sonora",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Invasora 101.9 FM",
      "streamURL": "http://204.45.15.50:2066/",
@@ -4240,6 +5648,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xeap.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/romantica-1290-am-ciudad-obregon.png",
      "desc": "Sonora",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4263,6 +5678,13 @@
      "desc": "Sonora",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Sin Limites 101.1 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhvss.mp3",
@@ -4282,6 +5704,13 @@
      "streamURL": "http://69.31.54.135/W_RADIO_SC",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/w-radio-1300-am-nogales.png",
      "desc": "Sonora",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4305,6 +5734,13 @@
      "desc": "Sonora",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Mejor 103.3 FM",
      "streamURL": "http://50.7.29.178:8199/",
@@ -4324,6 +5760,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xeiq.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/radio-formula-960-am-ciudad-obregon.png",
      "desc": "Sonora",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4347,6 +5790,13 @@
      "desc": "Sonora",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Reyna del Cobre 99.1 FM",
      "streamURL": "http://192.173.28.37/XHNZI_SC",
@@ -4366,6 +5816,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhsm.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/sonora/tono-1130-am.png",
      "desc": "Sonora",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4389,6 +5846,13 @@
      "desc": "Tabasco",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Poderosa 92.5 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhtr.mp3",
@@ -4408,6 +5872,13 @@
      "streamURL": "http://gpazos.centrocibernetico.com:19020/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/ya-fm-95-7-villahermosa.png",
      "desc": "Tabasco",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4431,6 +5902,13 @@
      "desc": "Tabasco",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Romantica 940 AM",
      "streamURL": "http://stream2.dyndns.org:8000/",
@@ -4450,6 +5928,13 @@
      "streamURL": "http://transmisionesdigitales.com:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tabasco/mega-94-9-fm-villahermosa.png",
      "desc": "Tabasco",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4473,6 +5958,13 @@
      "desc": "Tabasco",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "TABASCO HOY RADIO 90.9 FM",
      "streamURL": "http://173.236.44.30:8000/",
@@ -4492,6 +5984,13 @@
      "streamURL": "http://radio.alphamx.net:8096/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tamaulipas/rmx-94-1-fm-nuevo-loredo.png",
      "desc": "Tamaulipas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4515,6 +6014,13 @@
      "desc": "Tamaulipas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Poderosa 90.1 FM",
      "streamURL": "http://s1.radiorama.com.mx:9370/",
@@ -4534,6 +6040,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xhnk.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tamaulipas/40-principales-99-3-fm-nuevo-laredo.png",
      "desc": "Tamaulipas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4557,6 +6070,13 @@
      "desc": "Tamaulipas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Reina 93.1 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhraw.mp3",
@@ -4576,6 +6096,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xewl.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tamaulipas/la-romantica-1090-am-nuevo-laredo.png",
      "desc": "Tamaulipas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4599,6 +6126,13 @@
      "desc": "Tamaulipas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Cotorra 101.7 FM",
      "streamURL": "http://69.30.238.18:8064/",
@@ -4618,6 +6152,13 @@
      "streamURL": "http://69.30.238.18:8062/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tamaulipas/dihitall-107-1-fm-ciudad-victoria.png",
      "desc": "Tamaulipas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4641,6 +6182,13 @@
      "desc": "Tamaulipas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Pegajosa 790 AM",
      "streamURL": "http://75.125.212.250:8000/",
@@ -4660,6 +6208,13 @@
      "streamURL": "http://75.125.212.250:8000/stream/8/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tamaulipas/la-preferida-920-am-tampico.png.png",
      "desc": "Tamaulipas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4683,6 +6238,13 @@
      "desc": "Tamaulipas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "NOTIGAPE 970 AM",
      "streamURL": "http://notigapematamoros.ddns.net:8111/",
@@ -4702,6 +6264,13 @@
      "streamURL": "http://201.174.81.234:8114/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tamaulipas/notigape-1110-am-reynosa.png",
      "desc": "Tamaulipas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4725,6 +6294,13 @@
      "desc": "Tamaulipas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
           {
      "name": "La Mejor 100.1 FM",
      "streamURL": "http://192.173.28.39/XHJT_SC",
@@ -4744,6 +6320,13 @@
      "streamURL": "La Caliente 93.1 FM",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tamaulipas/la-caliente-93-1-fm.png",
      "desc": "Tamaulipas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
           {
@@ -4767,6 +6350,13 @@
      "desc": "Tlaxcala",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Radio 1430 AM",
      "streamURL": "http://198.50.152.227:8012/",
@@ -4786,6 +6376,13 @@
      "streamURL": "http://r161.mega00.com:8199/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/tlaxcala/radio-universidad-de-tlaxcala-99-5-fm.png",
      "desc": "Tlaxcala",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4809,6 +6406,13 @@
      "desc": "Horario: 7 AM a 7 PM",
      "longDesc": "Radio Huayacocotla La Voz de los Campesinos es una emisora que está localizada en Huayacocotla, Veracruz un pequeño poblado de cinco mil habitantes, en la región de la Sierra Norte de Veracruz, México. Es cabecera municipal de 26 comunidades, 25 rancherías, y cabecera judicial y política de los demás municipios situados en la Sierra Norte de Veracruz. Forma parte de la micro-región de Chicontepec, que abarca a los municipios de Zacualpan, Ilamatlán, Tlachichilco, Zontecomatlán y Texcatepec. Es escuchada en la Sierra Norte de Veracruz, en la Huasteca de Hidalgo, en la Sierra de Puebla, en la Huasteca de San Luis Potosí, en la Sierra Gorda de Querétaro y la Huasteca de Tamaulipas; en su mayoría por personas de comunidades indígenas de los pueblos Otomí, Náhuatl y Tepehua. Actualmente se escucha en 1300 pueblos y comunidades de 140 municipios."
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
   {
      "name": "Fusion 90.1 FM",
      "streamURL": "http://gpazos.centrocibernetico.com:42000/",
@@ -4828,6 +6432,13 @@
      "streamURL": "http://70.85.59.55:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/veracruz/soy-fm-93-9-tuxpan.png",
      "desc": "Veracruz",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4851,6 +6462,13 @@
      "desc": "Veracruz",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "W RADIO",
      "streamURL": "http://69.31.54.143/W_RADIO_SC",
@@ -4870,6 +6488,13 @@
      "streamURL": "http://s1.radiorama.com.mx:7708/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/veracruz/one-fm-veracruz-94-9-fm.png",
      "desc": "Veracruz",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4893,6 +6518,13 @@
      "desc": "Veracruz",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "XEU 930 AM",
      "streamURL": "http://gpazos.centrocibernetico.com:20000/",
@@ -4912,6 +6544,13 @@
      "streamURL": "http://50.7.98.234:8644/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/veracruz/rtv-radiomas-107-7-fm-veracruz.png",
      "desc": "Veracruz",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4935,6 +6574,13 @@
      "desc": "Veracruz",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "El Patron 104.9 FM",
      "streamURL": "http://ssfm1.cnwks.ws:8365",
@@ -4954,6 +6600,13 @@
      "streamURL": "http://nova921.centrocibernetico.com:25000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/veracruz/nova-92-1-fm-cordoba.png",
      "desc": "Veracruz",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -4977,6 +6630,13 @@
      "desc": "Veracruz",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Poderosa 93.1 FM",
      "streamURL": "http://stream2.dyndns.org:8000/xhcra.mp3",
@@ -4996,6 +6656,13 @@
      "streamURL": "http://stream2.dyndns.org:8000/xetbv.mp3",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/veracruz/ke-buena-100-9-fm-tierra-blanca.png",
      "desc": "Veracruz",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -5019,6 +6686,13 @@
      "desc": "Veracruz",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Ke Buena 93.9 FM",
      "streamURL": "http://streaming.wp-m.com:9892/",
@@ -5038,6 +6712,13 @@
      "streamURL": "http://70.85.59.55:8800/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/veracruz/mar-101-7-fm-coatzacoalcos.png",
      "desc": "Veracruz",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -5061,6 +6742,13 @@
      "desc": "Veracruz",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
   {
      "name": "La Reverenda 93.7 FM",
      "streamURL": "http://204.45.139.90:8010/",
@@ -5080,6 +6768,13 @@
      "streamURL": "http://204.45.15.50:2036/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/yucatan/super-stereo-105-9-fm-merida.png",
      "desc": "Yucatan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -5103,6 +6798,13 @@
      "desc": "Yucatan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Sona 89.3 FM",
      "streamURL": "http://transmisionesdigitales.com:8008/",
@@ -5122,6 +6824,13 @@
      "streamURL": "http://85.17.30.50:8166/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/yucatan/candela-92-7-fm-valladolid.png",
      "desc": "Yucatan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -5145,6 +6854,13 @@
      "desc": "Yucatan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "MERIDA SEGUNDA CADENA 600 AM",
      "streamURL": "http://64.15.187.58:8000/merida2",
@@ -5164,6 +6880,13 @@
      "streamURL": "http://184.154.45.106:8053/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/yucatan/super-turquesa-105-1-fm.png",
      "desc": "Yucatan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -5187,6 +6910,13 @@
      "desc": "Yucatan",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Amor 100.1 FM",
      "streamURL": "http://mediaservicios.com.mx:8046/",
@@ -5206,6 +6936,13 @@
      "streamURL": "http://listen.radionomy.com/LAMIXER",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/yucatan/radio-la-mixer.png",
      "desc": "Yucatan",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
    {
@@ -5229,6 +6966,13 @@
      "desc": "Zacatecas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Raduio Zacatecas 97.9 FM",
      "streamURL": "http://198.50.118.50:8134/",
@@ -5248,6 +6992,13 @@
      "streamURL": "http://b15radio.zuperdns.net:8100/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/zacatecas/la-mejor-107-9-fm-fresnillo.png",
      "desc": "Zacatecas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -5271,6 +7022,13 @@
      "desc": "Zacatecas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "La Tremenda 98.5 FM",
      "streamURL": "http://zer.zuperdns.net:9850",
@@ -5290,6 +7048,13 @@
      "streamURL": "http://178.33.232.100:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/zacatecas/exa-fm-100-5-fm.png",
      "desc": "Zacatecas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
@@ -5313,6 +7078,13 @@
      "desc": "Zacatecas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "LA QUE PEGA",
      "streamURL": "http://s5.radioboss.fm:8215/",
@@ -5334,6 +7106,13 @@
      "desc": "Zacatecas",
      "longDesc": ""
      },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+     },
      {
      "name": "Color FM",
      "streamURL": "http://67.23.248.58:9980/",
@@ -5353,6 +7132,13 @@
      "streamURL": "http://192.241.192.156:8000/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/zacatecas/radio-fe.png",
      "desc": "Zacatecas",
+     "longDesc": ""
+     },
+      {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
      "longDesc": ""
      },
      {
