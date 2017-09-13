@@ -1,26 +1,26 @@
 {
     "station":
     [
-     {
+      {
      "name": "Neurotik",
-     "streamURL": "http://104.130.146.201:8000/xhtom",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/neurotik.png",
+     "streamURL": "http://radio.spiritmedia.mx:8000/xhpca",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s87719q.png",
      "desc": "Hidalgo",
-     "longDesc": "NEURÓTIK Pachuca 106.1"
+     "longDesc": "Neurotik"
+     },
+              {
+     "name": "La Dinámica",
+     "streamURL": "http://stream2.dyndns.org:8000/xhcov.mp3",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s10863q.png",
+     "desc": "Hidalgo",
+     "longDesc": "La Dinámica"
      },
      {
-     "name": "Radio Plaza Juarez",
-     "streamURL": "http://198.154.246.178:7006/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/plazajuarez.png",
+     "name": "Amor",
+     "streamURL": "http://18443.live.streamtheworld.com:3690/XHMYFM_SC",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s91411q.png",
      "desc": "Hidalgo",
-     "longDesc": "Radio Plaza Juarez"
-     },
-     {
-     "name": "Radio y Televisión",
-     "streamURL": "http://radioytv.hidalgo.gob.mx:8000/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/radioytvhidalgo.png",
-     "desc": "Hidalgo",
-     "longDesc": "Radio y Televisión"
+     "longDesc": "Sólo Música Romantica"
      },
       {
      "name": "",
@@ -30,16 +30,16 @@
      "longDesc": ""
      },
      {
-     "name": "La KeBuena 106.7 FM",
-     "streamURL": "http://209.133.210.123:8027",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/kebuena1067.png",
+     "name": "Hidalgo Radio 98.1 FM",
+     "streamURL": "http://radioytv.hidalgo.gob.mx:8000/",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s90250q.png",
      "desc": "Hidalgo",
-     "longDesc": "La KeBuena 106.7 FM"
+     "longDesc": "Hidalgo Radio 98.1 FM"
      },
      {
      "name": "Radio UAEH",
      "streamURL": "http://200.34.44.240:8002/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/uaeh.png",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s157376q.png",
      "desc": "Hidalgo",
      "longDesc": "Radio UAEH"
      },
@@ -72,11 +72,11 @@
      "longDesc": "Radio Celular Millenium"
      },
      {
-     "name": "Pachuca Vip Radio",
-     "streamURL": "http://streaming.radionomy.com/RadionoMiX",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/pachucavipradio.png",
+     "name": "La Comadre",
+     "streamURL": "http://17943.live.streamtheworld.com:3690/XHRD_SC",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s90267q.png",
      "desc": "Hidalgo",
-     "longDesc": "Pachuca Vip Radio"
+     "longDesc": "La Comadre"
      },
       {
      "name": "",
@@ -87,7 +87,7 @@
      },
      {
      "name": "Miled Radio",
-     "streamURL": "http://192.99.34.205:8612/stream",
+     "streamURL": "http://radio.spiritmedia.mx:8000/xhpca",
      "imageURL": "https://github.com/davidzahidjimenezgrez/radiobycountryjson/raw/master/mexico/hidalgo/miledradio.png",
      "desc": "Hidalgo",
      "longDesc": "Miled Radio"
@@ -120,5 +120,22 @@
      "desc": "La Salle Pachuca",
      "longDesc": "Abstracto MX"
      },
+      {
+     "name": "92.5 Mix",
+     "streamURL": "http://18583.live.streamtheworld.com:3690/XHPKFM_",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s91328q.png",
+     "desc": "Hidalgo",
+     "longDesc": "80's, 90's y mas"
+     },
+     {
+     "name": "Radio Plaza Juarez",
+     "streamURL": "http://stream2.dyndns.org:8000/xhpw.mp3",
+     "imageURL": "https://cdn-radiotime-logos.tunein.com/s91347q.png",
+     "desc": "Hidalgo",
+     "longDesc": "@FM"
+     },
+
+
+ 
     ]
 }
