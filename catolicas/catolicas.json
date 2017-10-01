@@ -15,13 +15,7 @@
      "desc": "Católica",
      "longDesc": ""
      },
-          {
-     "name": "",
-     "streamURL": "",
-     "imageURL": "nocover",
-     "desc": "",
-     "longDesc": ""
-},
+
      {
      "name": "Católica Web Radio",
      "streamURL": "http://whmsonic2.ipstm.net:9826/",
@@ -57,13 +51,7 @@
      "desc": "Católica",
      "longDesc": ""
      },
-          {
-     "name": "",
-     "streamURL": "",
-     "imageURL": "nocover",
-     "desc": "",
-     "longDesc": ""
-},
+
      {
      "name": "Radio Misión Católica",
      "streamURL": "http://usa7.fastcast4u.com:5791/",
@@ -99,13 +87,7 @@
      "desc": "Católica",
      "longDesc": ""
      },
-          {
-     "name": "",
-     "streamURL": "",
-     "imageURL": "nocover",
-     "desc": "",
-     "longDesc": ""
-},
+
      {
      "name": "Radio Católica WGUA",
      "streamURL": "http://99.198.107.186:8596/stream",
