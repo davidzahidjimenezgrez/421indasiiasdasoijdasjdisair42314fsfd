@@ -15,7 +15,13 @@
      "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/mbonaciones.jpg",
      "desc": "Cristiana",
      "longDesc": ""
-     },
+     },  {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
                {
      "name": "Radio Zuriel",
      "streamURL": "http://rcri1.com:8030",
@@ -30,6 +36,13 @@
      "desc": "Cristiana",
      "longDesc": ""
      },
+          {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
                     {
      "name": "Celestial Stereo Colombia",
      "streamURL": "http://rcri1.com:9106",
@@ -45,6 +58,13 @@
      "desc": "Cristiana",
      "longDesc": ""
      },
+          {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
                     {
      "name": "Radio Armonia",
      "streamURL": "http://encoder.armonia.cl:2032/",
@@ -59,6 +79,13 @@
      "desc": "Cristiana",
      "longDesc": ""
      },
+          {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
                          {
      "name": "Radio Cristiana",
      "streamURL": "http://69.175.122.50:8132/",
@@ -73,6 +100,13 @@
      "desc": "Cristiana",
      "longDesc": ""
      },
+          {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
                               {
      "name": "Radio Cristiana 100.5 FM",
      "streamURL": "http://107.161.127.202:11718/",
@@ -87,6 +121,13 @@
      "desc": "Cristiana",
      "longDesc": ""
      },
+          {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Radio Jerusalén Fm 90.9",
      "streamURL": "http://206.190.141.116:8188/stream",
