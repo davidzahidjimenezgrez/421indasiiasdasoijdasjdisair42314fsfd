@@ -1,7 +1,8 @@
 {
     "station":
     [
-     {
+    
+             {
      "name": "B-96 FM",
      "streamURL": "http://lortel58.lorini.net:63100/B96FM",
      "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/barquisimeto/s112077q.png",
@@ -22,6 +23,13 @@
      "desc": "Barquisimeto, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Imagen 105.7 FM",
      "streamURL": "http://redradioypc.com:8054/stream",
@@ -43,6 +51,13 @@
      "desc": "Barquisimeto, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Mas Network",
      "streamURL": "http://laradiohd.com:8715/",
@@ -64,6 +79,13 @@
      "desc": "Barquisimeto, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Radio Barquisimeto",
      "streamURL": "http://bb1.globalhost.co.ve:8000/BARQUISIMETO960",
@@ -85,6 +107,13 @@
      "desc": "Barquisimeto, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Radio Minuto 790 am",
      "streamURL": "http://lortel28.lorini.net:2010/RadioMinuto790",
@@ -106,6 +135,13 @@
      "desc": "Barquisimeto, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Stereo Quibor",
      "streamURL": "http://216.231.129.18:8195/",
@@ -113,5 +149,8 @@
      "desc": "Barquisimeto, Venezuela",
      "longDesc": ""
      },
+        
+        
+        
     ]
 }
