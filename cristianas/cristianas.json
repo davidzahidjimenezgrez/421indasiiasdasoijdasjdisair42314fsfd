@@ -2,6 +2,36 @@
     "station":
     [
     
+
+    {
+     "name": "Cielos Abiertos", 
+     "streamURL": "http://206.190.141.116:8072/stream",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2013/05/EC12X10CIELOSABRTS.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+     {
+     "name": "Mbo Naciones",
+     "streamURL": "http://rcri1.com:9110",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/mbonaciones.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     }, 
+               {
+     "name": "Radio Zuriel",
+     "streamURL": "http://rcri1.com:8030",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/radiozuriel.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+               {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
+
         {
      "name": "Radio Cristiana Juvenil",
      "streamURL": "http://162.219.26.67:9542/",
@@ -39,9 +69,9 @@
      },
 
                     {
-     "name": "Celestial Stereo Colombia",
-     "streamURL": "http://rcri1.com:9106",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/celestial.png",
+     "name": "Radio Fuente de Vida",
+     "streamURL": "http://209.126.119.28:8753/",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2013/05/EC12X10RFDV.png",
      "desc": "Cristiana",
      "longDesc": ""
      },
@@ -91,9 +121,9 @@
      "longDesc": ""
 },
                               {
-     "name": "Radio Cristiana 24 horas",
-     "streamURL": "http://107.150.32.114:8300/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/blogcristiano.png",
+     "name": "CVC LA VOZ ",
+     "streamURL": "http://shout.worldkast.com:8184/",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2014/04/EC12X10RVC.png",
      "desc": "Cristiana",
      "longDesc": ""
      },
@@ -106,9 +136,9 @@
      "longDesc": ""
      },
                               {
-     "name": "Radio Restauración Cristiana",
-     "streamURL": "http://buzziz2.serverroom.us:6134/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/cristianas/restauracion.jpg",
+     "name": "Nueva Uncion Radio",
+     "streamURL": "http://209.133.216.3:7265/",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2015/02/EC12X10Nueva-Uncion-Radio.png",
      "desc": "Cristiana",
      "longDesc": ""
      },
@@ -124,18 +154,69 @@
      "name": "Radio Jerusalén Fm 90.9",
      "streamURL": "http://206.190.141.116:8188/stream",
      "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s213896q.png",
-     "desc": "Tucumán, Argentina",
+     "desc": "Cristiana",
      "longDesc": ""
      },
     {
-     "name": "Test ",
-     "streamURL": "http://206.190.141.116:8072/stream",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s213896q.png",
-     "desc": "Tucumán, Argentina",
+     "name": "Radio IPUC",
+     "streamURL": "http://62.210.141.243:8151/",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2015/09/EC12X10-radio-pentecostal-ipuc.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+         {
+     "name": "FM Radio Luz a las Naciones",
+     "streamURL": "http://ns100.emisionlocal.com:8022/",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2016/11/EC12X10-luz-a-las-naciones.png",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+             {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
+
+   {
+     "name": "Red Radio Integridad 700 AM",
+     "streamURL": "http://ns100.emisionlocal.com:8022/",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2017/03/repro-img-radio-integridad.jpg",
+     "desc": "Cristiana",
      "longDesc": ""
      },
 
+   {
+     "name": "Radio El Sembrador 105.1 FM",
+     "streamURL": "http://radiosembrador.pe:7000/",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2017/03/repro-img-radio-sembrador.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
 
+   {
+     "name": "Radio Esperanza 1140 AM",
+     "streamURL": "http://5.199.169.190:8131/stream",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2017/03/repro-img-radio-esperanza1140.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
+                 {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
+
+ {
+     "name": "Shekinah La Voz",
+     "streamURL": "http://83.142.226.45:5551/",
+     "imageURL": "http://emisorascristianas.co/wp-content/uploads/2016/10/repro-img-shekina-lavoz.jpg",
+     "desc": "Cristiana",
+     "longDesc": ""
+     },
 
 
 
