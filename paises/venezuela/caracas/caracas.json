@@ -2,7 +2,7 @@
     "station":
     [
     
-     {
+             {
      "name": "92.9 tu FM",
      "streamURL": "http://streaming2.globalhost.net.ve:9188/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/venezuela/caracas/s140977q.png",
@@ -23,6 +23,13 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Alba Ciudad",
      "streamURL": "http://envivo.albaciudad.org:8000/albaciudad.mp3",
@@ -44,6 +51,13 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Caracas 107.3 Fm",
      "streamURL": "http://94.23.35.151:9010/",
@@ -65,6 +79,13 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Éxitos FM",
      "streamURL": "http://ur58.lorini.net:2070/EXITOS.aac",
@@ -86,6 +107,13 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "La Mega Estación",
      "streamURL": "http://ur58.lorini.net:11073/megaccs.mp3",
@@ -107,6 +135,13 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Lider 94.9 FM",
      "streamURL": "http://laradiohd.com:9934/",
@@ -128,6 +163,13 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
       {
      "name": "Musik",
      "streamURL": "http://184.107.179.162:2547/",
@@ -149,6 +191,13 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Pacífica 90.7 FM",
      "streamURL": "http://107.170.95.131:9860/",
@@ -170,6 +219,13 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Radio Capital",
      "streamURL": "http://190.74.112.17:8000/",
@@ -191,5 +247,18 @@
      "desc": "Caracas, Venezuela",
      "longDesc": ""
      },
+           {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
+
+
+
+        
+        
+        
     ]
 }
