@@ -1,8 +1,15 @@
 {
     "station":
     [
-      
-     {
+       {
+     "name": "Radio Tucuman",
+     "streamURL": "http://38.86.49.2:9545/",
+     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s26011q.png",
+     "desc": "Tucumán, Argentina",
+     "longDesc": ""
+     },
+        
+      {
      "name": "FM Dinamica",
      "streamURL": "http://142.4.201.73:8995/",
      "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/",
@@ -16,6 +23,14 @@
      "desc": "Tucumán, Argentina",
      "longDesc": ""
      },
+
+        {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
           {
      "name": "Metropolitana 93.5",
      "streamURL": "http://184.107.166.66:8134/stream",
@@ -23,6 +38,7 @@
      "desc": "Tucumán, Argentina",
      "longDesc": ""
      },
+
      {
      "name": "Metropolitana FM",
      "streamURL": "http://142.4.201.73:8575/",
@@ -37,6 +53,14 @@
      "desc": "Tucumán, Argentina",
      "longDesc": ""
      },
+
+        {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
       {
      "name": "Radio Contacto",
      "streamURL": "http://142.4.201.73:8771/",
@@ -58,6 +82,14 @@
      "desc": "Tucumán, Argentina",
      "longDesc": ""
      },
+
+        {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
      {
      "name": "Radio Jerusalén Fm 90.9",
      "streamURL": "http://206.190.141.116:8188/stream",
@@ -79,6 +111,14 @@
      "desc": "Tucumán, Argentina",
      "longDesc": ""
      },
+
+        {
+     "name": "",
+     "streamURL": "",
+     "imageURL": "nocover",
+     "desc": "",
+     "longDesc": ""
+},
           {
      "name": "Radio María Argentina",
      "streamURL": "http://50.7.181.186:8004/",
@@ -90,13 +130,6 @@
      "name": "Radio Nacional (Tucuman)",
      "streamURL": "http://icecast01.dcarsat.com.ar:8000/sc_rad15",
      "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s142032q.png",
-     "desc": "Tucumán, Argentina",
-     "longDesc": ""
-     },
-     {
-     "name": "Radio Tucuman",
-     "streamURL": "http://38.86.49.2:9545/",
-     "imageURL": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/paises/argentina/tucuman/s26011q.png",
      "desc": "Tucumán, Argentina",
      "longDesc": ""
      },
