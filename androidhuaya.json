@@ -1327,6 +1327,44 @@
         "logo": "https://c-sf.smule.com/sf/s77/arr/66/de/a73c4200-ba25-4b1f-b7e0-d3da8d376ecf_256.jpg",
         "time": "Musica",
         "title": "Ariel Camacho"
+},
+	 {
+        "streams": [
+            {
+                "playlist": [
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/002_tu_Me_Complementas.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/003_Ojos_En_Blanco.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/004_Se_Me_Ve_Lo_MexicanO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/005_LOS_LIMONES.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/006_NO_TE_CONVIENE.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/007_Lo_Hiciste_Otra_Vez.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/008_Yo_Trataré_De_Olvidarte.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/009_Empieza_A_Despedirte.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/010_TU_SASTRE.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/011_Dame_Tu_Mano.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/012_Confesion.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/013_Para_Que_Pides_Perdón.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/014_IRREVERSIBLE.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/015_Colgada_A_Mi_Cuello.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/016_Ya_Te_Perdí_La_Fe.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/017_Y_YO_QUE_GANO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/018_Te_Lo_Dije.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/019_NO_VOLVERE.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/020_Opaco_Y_Sensible.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARROLLADORA/021_Quisiera.mp3"
+
+
+   ],
+                "bitrate": 128,
+                "metaint": true,
+                "live": false,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "La Arrolladora",
+        "logo": "https://c-sf.smule.com/sf/s77/arr/cd/cb/06091f69-1bbc-4eed-8cb3-88abd3ec79de_256.jpg",
+        "time": "Musica",
+        "title": "La Arrolladora"
 }
 
 
