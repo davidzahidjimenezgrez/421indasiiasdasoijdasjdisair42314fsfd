@@ -1284,6 +1284,49 @@
         "logo": "https://textove.com/images/1/5/2047.jpg",
         "time": "Musica",
         "title": "Antonio Aguilar"
+},
+	 {
+        "streams": [
+            {
+                "playlist": [
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	02_Hablemos_----------------_EXITOS.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	03_El_Mochomo.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	04_Corrido_Del_Pendiente.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	05_Cartas_Y_Whatsapp.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	06_Lo_Que_Aprendi_Desde_Nino.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	07_Nervios_De_Acero.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	08_MIS_ULTIMOS_MOMENTOS_(Homenaje_A.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	09_SI_QUIERE_SALIR_QUE_SALGA_feat._.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	10_EL_DEL_TATUAJE_feat._Traviezoz_D.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	11_LA_FUGA_DEL_DORIAN_feat._Grupo_F.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	12_EL_MUCHACHO_DE_LOS_TRATOS_feat._.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	13_YO_QUISIERA_ENTRAR.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	14_ENTRE_PLATICAS_Y_DUDAS.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	15_BESOS_Y_CEREZAS.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	16_TE_METISTE.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	17_EL_SEÑOR_DE_LOS_CIELOS.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	18_EL_ENCARAMADO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	19_EL_LEVANTON.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	20_EL_ARBOL_DEL_MAYO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	21_LOS_PRIMOS_DE_LA_COSTA.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	22_El_Mochomo_--------------------_RECUERDEN_MI_ESTILO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	23_Mi_Riqueza.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	24_DEL_NEGOCIANTE.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	25_Que_Caro_Estoy_Pagando.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/ARIELCAMACHO/	26_No_Lo_Hice_Bien.mp3"
+
+
+   ],
+                "bitrate": 128,
+                "metaint": true,
+                "live": false,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Ariel Camacho",
+        "logo": "https://c-sf.smule.com/sf/s77/arr/66/de/a73c4200-ba25-4b1f-b7e0-d3da8d376ecf_256.jpg",
+        "time": "Musica",
+        "title": "Ariel Camacho"
 }
 
 
