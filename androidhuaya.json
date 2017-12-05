@@ -1365,7 +1365,165 @@
         "logo": "https://c-sf.smule.com/sf/s77/arr/cd/cb/06091f69-1bbc-4eed-8cb3-88abd3ec79de_256.jpg",
         "time": "Musica",
         "title": "La Arrolladora"
+},
+	 {
+        "streams": [
+            {
+                "playlist": [
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/002_LA_CARRETERA_-_prince_royce.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/003Tu_Traicion_(Version_Bachata)_Grupo_Bryndis.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/004_Azúcar_Amargo_(Bachata_Version)_-_Sparkling.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/005_Oye_Mujer_-_Bachata.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/006_PERDON_PERDON_(_VERCION_BACHATA)_As_Ash.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/007_Culpa_al_Corazón_-_Prince_Royce.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/008_Masoquismo_-_Romeo_S_Ft_Anthony_Santos.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/009_Paisaje_-_la_apuesta.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/010_SOLO_PARECIA_AMOR_-_thalia.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/011Como_Seras_Tu_-RAULIN_RODRIGUEZ.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/012_Tu_Sin_mi_-_Yenddi.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/013_MUCHACHITA_LINDA_-_juan_luis_guerra.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/014_un_nuevo_amor_-_Jason_Jay.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/015_Duele_-_Mr_Don.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/016_Olvidarte_No_Puedo_-_JC-.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/017_CON_PERMISO_-_MONTEZ_DE_DURANGO_2015.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/018_TE_DI_TODO_(MARGARITA_LA_DIOSA_)_2015.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/019_QUE_COSAS_TIENE_EL_AMOR_-_Anthony_S_Ft_Prynce_R.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/020_uNA_OPORTUNIDAD_BACHATA_-_AARON_Y_SUGRUPO_I.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/021_lo_mejor_para_los_dos_-_marco_antonio_solis.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/022_Bian-K_Polonia_Feat._Carlix_-_Invisible.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/023_VAS_A_QUERER_VOLVER_-_MAITE_PERRONI.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BACHATAS/024_Eres_Mi_Nina_-_gerardo_o(Versión_Bachata).mp3"
+
+
+   ],
+                "bitrate": 128,
+                "metaint": true,
+                "live": false,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Bachatas",
+        "logo": "https://www.music-bazaar.com/album-images/vol3/270/270826/2108250-big/Radio-Latina-Bachata-cover.jpg",
+        "time": "Musica",
+        "title": "Bachatas"
+},
+ {
+        "streams": [
+            {
+                "playlist": [
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/01_EL_COLOR_DE_TUS_OJOS_-_BANDA_MS_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/02Mi_Amante_REMI_VALENZUELA.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/03_Yo_Me_Quiero_Mas_-_El_Komander_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/04_Para_Que_Lastimarme_-_Gerardo_Ortiz_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/05_Volveré_-_A_amar_calibre_50.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/06_Casada_O_No_-_Chuy_Lizárraga_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/07_Las_Diferencias_(Ft._Benito_Camacho)_-_LOS_PLEBES_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/08_Mis_Letras_de_Amor_-_BANDA_PEQUEÑOS_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/09_Tengo_Ganas_-_el_Komander_(Remasterizado).mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/11_A_Mi_Modo_-_Banda_Tierra_Sagrada.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/12_Vete_-_Ya_la_septima_banda.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/13_La_Despedida_-_TRAKALOSA_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/14Nomás_Olvídame_-_Banda_Cuisillos_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/15_Y_Se_parece_a_ty_-_claudio_alcaraz.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/16_La_Suerte_-_Los_Plebes_Del_Rancho_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/17Te_Quiero_Para_Mi_-_Lucero_Con_Banda_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/18_Soy_Así_-_Banda_Los_Sebastianes_-_(Lyric_Video)_-.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/19_Mis_botas_y_tus_zapatillas_-_ESTRENO_-_KOMANDER.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/20_La_Más_DESEADA_EL_BEBETO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/21_Mejor_Vete_-_Julión_Álvarez_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/22_Las_Ultras_-_Calibre_50_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/23_Me_Prometí_Olvidarte_-_RECODO_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/24_Bienvenida_-_LA_ADICTIVA_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/25_Como_Tu_-_Ft_Kenia_Rios.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/26_El_Bien_Amado_-_Banda_MS_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/27_QUE_SE_CANSE_DE_LLAMAR_-_LOS_PLEBES_EL_R_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/28MI_HERMOSA_ADICCION_-_b_tierra_mojada_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/29_Durmiendo_En_El_Lugar_Equivocado_-_adictiva.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/30_Adiós_Amor_Christian_Nodal.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/31_Quisiera_-_LA_ARROLLADORA_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/32_Que_No_Estas_-_Gerardo_O_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/33_El_Chema_-_Banda_El_Recodo_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/34_Sin_Ti_-_ESTRENO_-_BANDA_MS_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/35_UNO_MAS_-_FIDEL_R_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/36Todo_Termina-_ESTRENO_-_BANDA_MS_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/37_A_los_18-_Kevin_Ortiz_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/38_Y_me_pregunto_-_Julión_Á_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/39_el_beso_mas_largo_-_Gerardo_o_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/40_Como_Fue_-_LOS_PLEBES_EL_R_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/41_La_Chapeada_-_LA_ADICTIVA.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/42_YO_SI_TE_AMÉ_-_LA_ARROLLADORA.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/43_Regresa_Hermosa_Gerardo_Ortiz.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/44_OJALA_-_CRISTIAN_NODAL.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/45Una_Mujer_Como_Tu_-_ESTRENO_-_BANDA_MS.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/46_El_Mini_Y_El_Uno_Cinco-_GERARDO_O.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/47_El_árbol_de_la_horca_-_la_trakalosa_-_estreno.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/48_DUEÑO_DE_NADA_-JULION_A_FT_MATUTE_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/49_TENGO_QUE_COLGAR_-_banda_ms.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/50_¿Y_Si_No_Decimos_-_Claudio_Alcaraz_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/51_Se_Canso_-_Gerardo_Ortiz_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/52_Y_Te_Vas_-_Calibre_50_-_ESTRENO.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/53_Tal_Vez_Si_O_Tal_Vez_No_-_El_Komander.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/54_Corrido_De_Monterrey_-_trakalosa.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/55_El_Próximo_-_Javier_Rosas.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/56_Ya_es_Muy_Tarde_-_Gerardo_Ortiz.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/57_Se_Volvio_A_Pelar_Mi_Apa_-_calibre_50.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDA/58_28_Abriles_-_El_Komander.mp3"
+
+
+   ],
+                "bitrate": 128,
+                "metaint": true,
+                "live": false,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Banda",
+        "logo": "http://www.gruposydjs.com/Nclassifieds/pictures/listings/461_2.jpg",
+        "time": "Musica",
+        "title": "Banda"
+},
+ {
+        "streams": [
+            {
+                "playlist": [
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/002_ms_-_Piensalo_(tema_2015).mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/003_Excepto_a_Ti.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/004_HERMOSA_EXPERIENCIA.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/005_Jure.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/006_De_Ti_Enamorado.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/007_El_Terco.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/008_El_Aguila_Blanca.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/009_Me_Gusta_Tu_Vieja.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/010_el_24.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/011_No_Me_Pidas_Perdon.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/012_Mi_Mayor_Anhelo.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/013_Chuy_y_Mauricio.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/014_la_suata.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/015_Me_Gusta_Tu_Vieja.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/016_EL_VIEJITOAKA-JUANITO_EL_COMANDATE.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/017_Como_una_Pelota.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/018_Excepto_a_Ti.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/019_Mi_Razon_De_Ser.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/020_No_Es_Invento_Mio.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/021_En_Preparacion_.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/022_A_Lo_Mejor.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/023_Cacahuates_Pistaches.mp3",
+"https://raw.githubusercontent.com/malojirivera/final/master/BANDAMS/024_Por_Este_Amor.mp3"
+
+
+   ],
+                "bitrate": 128,
+                "metaint": true,
+                "live": false,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Banda MS",
+        "logo": "https://c-sf.smule.com/sf/s34/arr/b8/5c/17aea206-379a-4274-b908-63e3af1a0f64.jpg",
+        "time": "Musica",
+        "title": "Banda MS"
 }
+	
 
 
 
