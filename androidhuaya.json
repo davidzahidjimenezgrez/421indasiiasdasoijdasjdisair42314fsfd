@@ -1066,5 +1066,53 @@
         "logo": "https://github.com/davidzahidjimenezgrez/421indasiiasdasoijdasjdisair42314fsfd/raw/master/huayasongs/images/huaya.jpg",
         "time": "24 horas",
         "title": "Radio Huaya"
-    }  
+    },
+     {
+        "streams": [
+            {
+                "playlist": [
+					"001_ACAPULCO_TROPICAL.mp3",
+					"02_MAR_SAGRADO.mp3",
+					"03_AMOR_PERDIDO.mp3",
+					"04_VICKY.mp3",
+					"05_CANGREJITO_PLAYERO.mp3",
+					"06_LA_DEL_VESTIDO_ROJO.mp3",
+					"07_AQUEL_AMOR.mp3",
+					"09_MAR_Y_ESPUMA.mp3",
+					"10_EL_CHANGO_DE_ROSITA.mp3",
+					"11_MI_LINDA_ESPOSA.mp3",
+					"12_LA_NOVIA_FEA.mp3",
+					"13_LA_TOS.mp3",
+					"14_RITMO_DE_ACALPULCO_TROPICAL.mp3",
+					"15_EL_GALLO_TUERTO.mp3",
+					"16_LA_BURRA_CHELA.mp3",
+					"17_EL_MUJERIEGO.mp3",
+					"18_MI_LINDO_ACAPULCO.mp3",
+					"19_MALA_MUJER.mp3",
+					"20_2DA_ACAPULCO_TROPICAL.mp3",
+					"21_MUJERES_TRAICIONERAS.mp3",
+					"22_SABOR_A_DURAZNO.mp3",
+					"23_QUE_MANERA_DE_PERDER.mp3",
+					"24_UN_SUEÑO_DE_TANTOS.mp3",
+					"25_TU_ME_TRAICIONASTE.mp3",
+					"26_TENGO_MIEDO_CONTIGO.mp3",
+					"27_SOÑE_CONTIGO.mp3",
+					"28_SI_TU_ME_QUISIERAS.mp3",
+					"29_PARAISO_ESCONDIDO.mp3",
+					"30_MI_CAFETAL.mp3"
+
+
+
+   ],
+                "bitrate": 128,
+                "metaint": true,
+                "live": false,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Acapulco Tropical",
+        "logo": "http://s1.ticketm.net/tm/es-mx/dam/a/715/1e08df30-d75b-49d6-9f4a-3cb077c8a715_199921_CUSTOM.jpg",
+        "time": "Musica",
+        "title": "ACAPULCO TROPICAL"
+    }
 ]}
