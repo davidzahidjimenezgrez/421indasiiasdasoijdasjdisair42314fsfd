@@ -1114,5 +1114,53 @@
         "logo": "http://s1.ticketm.net/tm/es-mx/dam/a/715/1e08df30-d75b-49d6-9f4a-3cb077c8a715_199921_CUSTOM.jpg",
         "time": "Musica",
         "title": "ACAPULCO TROPICAL"
-    }
+    },
+	 {
+        "streams": [
+            {
+                "playlist": [
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/002_EL_CICLO_SIN_FIN_-_ft._camila_-_ESTRENO_-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/003_DEJA_VU_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/004_TE_QUISE_OLVIDAR_FT_JUAN_G_-_ESTRENO-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/005_TENGO_TODO_EXCEPTO_A_TI_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/006_TE_AMARÉ-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/007_SI_TU_TE_ATREVES_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/008_Yo_Naci_Para_Amarte-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/009_SI_TE_PERDIERA_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/010_Mañana_Es_Para_Siempre-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/011_VOY_A_APAGAR_LA_LUZ_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/012_Me_dediqué_a_perderte-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/013_UN_TE_AMO_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/014_Unas_Nalgadas-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/015_TODO_Y_NADA_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/016_Si_tu_supieras_-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/017TE_NECESITO_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/018_Contigo_aprendi-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/019_TU_IMAGINACION_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/020_Qué_voy_a_hacer_con_mi_amor-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/021_SABES_UNA_COSA_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/022_Me_estoy_enamorando-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/023_TRES_PALABRAS_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/024_Cuando_yo_queria_ser_grande-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/025_EL_DIA_QUE_ME_QUIERAS_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/026_Mátalas-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/027_FRIA_COMO_EL_VIENTO_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/028_LE_HACE_TANTO_BIEN-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/029_SOLAMENTE_UNA_VEZ_-_LUIS_MIGUEL.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/030_CIELOS_DE_ACUARELAS-_ALEJANDRO_F.mp3",
+					"https://raw.githubusercontent.com/malojirivera/final/master/ACAPULCOTROPICAL/031_AMARTE_ES_UN_PLACER_-_LUIS_MIGUEL.mp3"
+
+
+   ],
+                "bitrate": 128,
+                "metaint": true,
+                "live": false,
+                "url_m3u": ""
+            }
+        ],
+        "genre": "Alejandro y Luis",
+        "logo": "http://adninformativo.mx/wp-content/uploads/2015/11/ALEJANDRO-FERN%C3%81NDEZ-Y-LUIS-MIGUEL_ESPECIAL.jpg",
+        "time": "Musica",
+        "title": "Alejandro y Luis"
+}
 ]}
